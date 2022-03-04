@@ -28,7 +28,7 @@ Our Platform Terms and Conditions ([https://aero.bid/legal/terms](https://aero.b
 
 ### We may make changes to the terms of this policy
 
-We amend these terms from time to time. Every time you wish to use our Platform, please check these terms to ensure you understand the terms that apply at that time.  This policy was most recently updated on **01 March 2022**.
+We amend these terms from time to time. Every time you wish to use our Platform, please check these terms to ensure you understand the terms that apply at that time.  This policy was most recently updated on the date shown at the top of this document.
 
 ### Prohibited uses
 
