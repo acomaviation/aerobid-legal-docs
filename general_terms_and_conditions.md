@@ -1,6 +1,6 @@
-# General Terms and Conditions
-
-March 4, 2022
+---
+title: General Terms and Conditions
+---
 
 ### What's in these terms?
 
