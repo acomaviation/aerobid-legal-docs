@@ -10,16 +10,16 @@ ACOM Aviation Ltd respects your privacy and is committed to protecting your pers
 
 This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please also use the Glossary to understand the meaning of some of the terms used in this privacy policy.
 
-1. Important Information and Who We Are
-2. The Data We Collect About You
-3. How Is Your Personal Data Collected
-4. How We Use Your Personal Data
-5. Disclosures of Your Personal Data
-6. International Transfers
-7. Data Security
-8. Data Retention
-9. Your Legal Rights
-10. Glossary
+1. [Important Information and Who We Are](#1-important-information-and-who-we-are)
+2. [The Data We Collect About You](#2-the-data-we-collect-about-you)
+3. [How Is Your Personal Data Collected](#3-how-is-your-personal-data-collected)
+4. [How We Use Your Personal Data](#4-how-we-use-your-personal-data)
+5. [Disclosures of Your Personal Data](#5-disclosures-of-your-personal-data)
+6. [International Transfers](#6-international-transfers)
+7. [Data Security](#7-data-security)
+8. [Data Retention](#8-data-retention)
+9. [Your Legal Rights](#9-your-legal-rights)
+10. [Glossary](#10-glossary)
 
 ### 1. IMPORTANT INFORMATION AND WHO WE ARE
 
@@ -35,7 +35,7 @@ It is important that you read this privacy policy together with any other privac
 
 ACOM Aviation Ltd is the controller and responsible for your personal data (collectively referred to as **ACOM**, **we**, **us** or **our** in this privacy policy).
 
-We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your Legal Rights please contact the data privacy manager using the details set out below. 
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your [Your Legal Rights](#9-your-legal-rights) please contact the data privacy manager using the details set out below. 
 
 #### Contact details
 
@@ -93,7 +93,7 @@ We may collect, use, store and transfer different kinds of personal data about y
 
 Where you use our Platform on behalf of a business (e.g. an operator or broker), we anticipate that most of the data we collect in connection with your use of the Platform will be business information rather than personal data. This privacy policy applies to the extent that you provide us with any personal data ancillary to your use of the Platform for and on behalf of the business that you represent. Where you use our Platform on behalf of a business, you must not upload or otherwise transmit personal data relating to passengers, crew members or any other individuals via our Platform. If you are, have been previously, or will in future be a passenger or crew member on any flight facilitated via our Platform, we do not process your personal data. 
 
-We refer to the above categories of data in the ‘Purposes for which we will use your personal data' tables. 
+We refer to the above categories of data in the [Purposes for which we will use your personal data](#purposes-for-which-we-will-use-your-personal-data) tables. 
 
 We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific Platform feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
 
@@ -115,7 +115,7 @@ We use different methods to collect data from and about you including through:
 * enter a competition, promotion or survey;
 * upload content to our Platform;
 * give us some feedback or contact us. 
-* **Automated technologies or interactions.** As you interact with our website and use our Platform, we may automatically collect **Technical Data** about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our cookie policy ([https://aero.bid/docs/cookie](https://aero.bid/docs/cookie)) for further details.
+* **Automated technologies or interactions.** As you interact with our website and use our Platform, we may automatically collect **Technical Data** about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our cookie policy ([https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)) for further details.
 * **Third parties or publicly available sources.** We may receive personal data about you from various third parties as set out below: 
 * Technical Data from the following parties:
   * analytics providers such as Google Analytics based outside the UK; 
@@ -137,7 +137,7 @@ Generally we do not rely on consent as a legal basis for processing your persona
 
 We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate. 
 
-Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](#contact-details) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
 
 <table>
   <tr>
@@ -345,7 +345,7 @@ Note that we may process your personal data for more than one lawful ground depe
 
 #### Marketing
 
-We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can manage your marketing preferences or opt out of marketing at any time by following the opt-out links on any marketing message sent to you or by [contacting us](#bookmark=id.4i7ojhp)<span style="text-decoration:underline;"> </span>at any time.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can manage your marketing preferences or opt out of marketing at any time by following the opt-out links on any marketing message sent to you or by [contacting us](#contact-details) at any time.
 
 #### Promotional offers from us
 
@@ -359,17 +359,17 @@ We will get your express opt-in consent before we share your personal data with 
 
 #### Opting out
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [contacting us](#bookmark=id.4i7ojhp) at any time. 
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [contacting us](#contact-details) at any time. 
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a subscription to our service.
 
 #### Cookies
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website or our Platform may become inaccessible or not function properly. For more information about the cookies we use, please visit [https://aero.bid/docs/cookie](https://aero.bid/docs/cookie)
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website or our Platform may become inaccessible or not function properly. For more information about the cookies we use, please visit [https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)
 
 #### Change of purpose
 
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](#bookmark=id.4i7ojhp)<span style="text-decoration:underline;">.</span> 
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](#contact-details). 
 
 If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
@@ -380,7 +380,7 @@ Please note that we may process your personal data without your knowledge or con
 
 We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
 
-* Third Parties as set out in the glossary above.
+* Third Parties as set out in the [Glossary](#glossary).
 * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. 
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
@@ -395,7 +395,7 @@ Whenever we transfer your personal data out of the UK, we ensure a similar degre
 * We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data. 
 * Where we use certain service providers, we may use specific contracts approved for use in the UK which give personal data the same protection it has in the UK. 
 
-Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the UK. 
+Please [contact us](#contact-details) if you want further information on the specific mechanism used by us when transferring your personal data out of the UK. 
 
 
 ### 7. DATA SECURITY
@@ -413,7 +413,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
 
-Details of retention periods for different aspects of your personal data are available on request by contacting us.
+Details of retention periods for different aspects of your personal data are available on request by [contacting us](#contact-details).
 
 In some circumstances you can ask us to delete your data: see 'Request erasure' below for further information.
 
@@ -424,15 +424,15 @@ In some circumstances we may anonymise your personal data (so that it can no lon
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights: 
 
-* [Request access to your personal data](#bookmark=id.2y3w247).
-* [Request correction of your personal data](#bookmark=id.3x8tuzt).
-* [Request erasure of your personal data](#bookmark=id.rjefff).
-* [Object to processing of your personal data](#bookmark=id.1qoc8b1).
-* [Request restriction of processing your personal data](#bookmark=id.2pta16n).
-* [Request transfer of your personal data](#bookmark=id.3oy7u29).
-* [Right to withdraw consent](#bookmark=id.j8sehv).
+* [Request access to your personal data](#request-access-to-your-personal-data).
+* [Request correction of your personal data](#request-correction-of-your-personal-data).
+* [Request erasure of your personal data](#request-erasure-of-your-personal-data).
+* [Object to processing of your personal data](#object-to-processing-of-your-personal-data).
+* [Request restriction of processing your personal data](#request-restriction-of-processing-of-your-personal-data).
+* [Request transfer of your personal data](#request-the-transfer-of-your-personal-data).
+* [Right to withdraw consent](#withdraw-consent-at-any-time).
 
-If you wish to exercise any of the rights set out above, please contact us.
+If you wish to exercise any of the rights set out above, please [contact us](#contact-details).
 
 #### No fee usually required
 
@@ -451,7 +451,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 #### **LAWFUL BASIS**
 
-**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](#contact-details).
 
 **Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
 
@@ -467,16 +467,30 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 You have the right to:
 
-**Request access **to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+##### **Request access** to your personal data.
 
-**Request correction **of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+Also commonly known as a "data subject access request", this enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
 
-**Request erasure **of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
+##### **Request correction** of your personal data.
 
-**Object to processing **of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
 
-**Request restriction of processing **of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
+##### **Request erasure** of your personal data.
 
-**Request the transfer **of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
 
-**Withdraw consent at any time **where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+##### **Object to processing** of your personal data.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+##### **Request restriction of processing** of your personal data.
+
+This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
+
+##### **Request the transfer** of your personal data.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+
+##### **Withdraw consent at any time**.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
