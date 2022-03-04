@@ -1,30 +1,30 @@
 # Cookie Policy
 
-**Last updated: March 4, 2022**
+March 4, 2022
 
 This cookie policy describes how ACOM Aviation Ltd (“**ACOM**”) uses cookies and other similar technologies in connection with the AeroBid platform (“**AeroBid**”). Any capitalised terms used and not otherwise defined below has the meaning assigned to it in the Privacy Policy.
 
-## 1. What is a Cookie?
+### 1. What is a Cookie?
 
 Cookies are small text files that are stored in a computer’s browser directory. They help site providers with things like understanding how people use a site, remembering a user’s login details, and storing site preferences.
 
-## 2. Does ACOM use Cookies?
+### 2. Does ACOM use Cookies?
 
-Yes. We use cookies, and we use the personal data obtained from cookies in accordance with our [Privacy Policy](https://aero.bid/docs/privacy) to:
+Yes. We use cookies, and we use the personal data obtained from cookies in accordance with our [Privacy Policy](https://aero.bid/legal/privacy) to:
 
 * ensure that our Platform functions properly,
 * detect and prevent fraud,
 * understand how visitors use and engage with our Platform, and
 * analyse and improve our Platform.
 
-## 3. Who sets cookies when I use ACOM’s Platform?
+### 3. Who sets cookies when I use ACOM’s Platform?
 
 There are two main types of cookies that can be set:
 
 * First party cookies: these cookies are placed and read by ACOM directly when you use our Platform (including where you visit our Platform website as an unregistered user),
 * Third party cookies: these cookies are not set by ACOM, but by other companies, like Google, for various purposes including site analytics, performance and targeting. ACOM has no control over these cookies. See further details below on how to manage these cookies.
 
-## 4. How ACOM Uses Cookies
+### 4. How ACOM Uses Cookies
 
 Cookies play an important role in helping us provide our Platform effectively and safely. Below is a description of the commonly used cookie types and the purposes that apply to them.
 
@@ -41,8 +41,6 @@ Some cookies are essential to the operation of our Platform and make it usable a
 
 Preference cookies are used by ACOM to remember your preferences and to recognize you when you return to our Platform.
 
-For more information and to update your preferences, please see the _Preferences_ section in your AeroBid account _Settings_.
-
 #### Analytics Cookies
 
 Analytics cookies help us understand how visitors interact with our Platform. We use those cookies in a number of different ways, including:
@@ -56,11 +54,9 @@ Analytics cookies help us understand how visitors interact with our Platform. We
 
 We and our service providers will use cookies and similar technologies on [https://aero.bid](https://aero.bid) to direct ACOM ads to you through targeted advertisements for our Platform on other sites you visit and to measure your engagement with those ads.
 
-For more information, please see the _Preferences_ section in your AeroBid account _Settings_.
-
 ## 5. Can I opt-out? 
 
-Yes. You can opt out of some cookies through your AeroBid account _Settings_ section, with the exception of those cookies that are necessary to provide you with our Platform. Your web browser may allow you to manage your cookie preferences, including to delete and disable ACOM cookies. You can take a look at the help section of your web browser or follow the links below to understand your options. If you choose to disable cookies, some features of our Platform may not operate as intended.
+Yes. Your web browser may allow you to manage your cookie preferences, including to delete and disable ACOM cookies. You can take a look at the help section of your web browser or follow the links below to understand your options. If you choose to disable cookies, some features of our Platform may not operate as intended.
 
 * Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
 * Explorer: [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
