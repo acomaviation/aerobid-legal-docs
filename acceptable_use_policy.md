@@ -1,14 +1,12 @@
 # Conditions of Use
 
-**Last updated: March 4, 2022**
+March 4, 2022
 
-**PLEASE READ THE TERMS OF THIS POLICY CAREFULLY BEFORE USING THE PLATFORM**
-
-## What's in these terms?
+### What's in these terms?
 
 This acceptable use policy sets out the content standards that apply when you upload content to our online platform Aero.Bid (**our Platform**), make contact with other users on our Platform, link to our Platform, or interact with our Platform in any other way.
 
-## Who we are and how to contact us
+### Who we are and how to contact us
 
 We are registered in England and Wales under company number 13120644 and have our registered office at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB, which is also our main trading address. Our VAT number is 396385541.
 
@@ -16,7 +14,7 @@ We are a limited company.
 
 To contact us, please email us to support@aero.bid address.
 
-## By using our Platform you accept these terms
+### By using our Platform you accept these terms
 
 By using our Platform, you confirm that you accept the terms of this policy and that you agree to comply with them.
 
@@ -24,15 +22,15 @@ If you do not agree to these terms, you must not use our Platform.
 
 We recommend that you print a copy of these terms for future reference.
 
-## There are other terms that may apply to you
+### There are other terms that may apply to you
 
-Our Platform Terms and Conditions ([https://aero.bid/docs/terms](https://aero.bid/docs/terms)) also apply to your use of our Platform.
+Our Platform Terms and Conditions ([https://aero.bid/legal/terms](https://aero.bid/legal/terms)) also apply to your use of our Platform.
 
-## We may make changes to the terms of this policy
+### We may make changes to the terms of this policy
 
 We amend these terms from time to time. Every time you wish to use our Platform, please check these terms to ensure you understand the terms that apply at that time.  This policy was most recently updated on **01 March 2022**.
 
-## Prohibited uses
+### Prohibited uses
 
 You may not use our Platform:
 
@@ -47,19 +45,19 @@ You may not use our Platform:
 
 You also agree:
 
-* Not to reproduce, duplicate, copy or re-sell any part of our Platform in contravention of the provisions of our Platform Terms and Conditions ([https://aero.bid/docs/terms](https://aero.bid/docs/terms)).
+* Not to reproduce, duplicate, copy or re-sell any part of our Platform in contravention of the provisions of our Platform Terms and Conditions ([https://aero.bid/legal/terms](https://aero.bid/legal/terms)).
 * Not to access without authority, interfere with, damage or disrupt:
 * any part of our Platform;
 * any equipment or network on which our Platform is operating;
 * any software used in the provision of our Platform; or
 * any equipment or network or software owned or used by any third party.
 
-## Interactive services
+### Interactive services
 
 Our Platform offers interactive services, including, without limitation:
 
-* The ability for brokers (as defined in our broker subscription terms, available at [https://aero.bid/docs/brokers](https://aero.bid/docs/brokers)) to upload details of their customers’ requirements.
-* The ability for operators (as defined in our operator subscription terms, available at [https://aero.bid/docs/operators](https://aero.bid/docs/operators)) to make bids, and for brokers to accept the most convenient of these bids.
+* The ability for brokers (as defined in our broker subscription terms, available at [https://aero.bid/legal/brokers](https://aero.bid/legal/brokers)) to upload details of their customer's requirements.
+* The ability for operators (as defined in our operator subscription terms, available at [https://aero.bid/legal/operators](https://aero.bid/legal/operators)) to make bids, and for brokers to accept the most convenient of these bids.
 * Messaging functions enabling brokers and operators to contact one another via our Platform.
 
 We are under no obligation to oversee, monitor or moderate any interactive service we provide on our Platform, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of our content standards, whether the service is moderated or not.
@@ -68,7 +66,7 @@ Our Platform is not intended for children and is not suitable for use by childre
 
 We do not store terrorist content.
 
-## Content standards
+### Content standards
 
 These content standards apply to any and all material which you contribute to our Platform (**Contribution**), and to any interactive services associated with it.
 
@@ -123,11 +121,11 @@ For the avoidance of doubt, for any Contribution in the form of video content:
 * unreasonably show such persons in dangerous situations.
 * You must use the functionality provided on our Platform to declare whether, as far as you know or can reasonably be expected to know, any video contains advertising.
 
-## Breach of this policy
+### Breach of this policy
 
 When we consider that a breach of this acceptable use policy has occurred, we may take such action as we deem appropriate.
 
-Failure to comply with this acceptable use policy constitutes a material breach of our Platform Terms and Conditions ([https://aero.bid/docs/terms](https://aero.bid/docs/terms)) upon which you are permitted to use our Platform, and may result in our taking all or any of the following actions:
+Failure to comply with this acceptable use policy constitutes a material breach of our Platform Terms and Conditions ([https://aero.bid/legal/terms](https://aero.bid/legal/terms)) upon which you are permitted to use our Platform, and may result in our taking all or any of the following actions:
 
 * Immediate, temporary or permanent withdrawal of your right to use our Platform.
 * Immediate, temporary or permanent removal of any Contribution uploaded by you to our Platform.
@@ -138,10 +136,10 @@ Failure to comply with this acceptable use policy constitutes a material breach 
 
 We exclude our liability for all action we may take in response to breaches of this acceptable use policy. The actions we may take are not limited to those described above, and we may take any other action we reasonably deem appropriate.
 
-## How this contract can be transferred
+### How this contract can be transferred
 
 We can transfer our rights and obligations under these terms to any third party, provided this does not adversely affect your rights under these terms.
 
-## Which country's laws apply to any disputes?
+### Which country's laws apply to any disputes?
 
 The terms of this policy, its subject matter and its formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales and we both hereby irrevocably waive any claim that we are not subject to the jurisdiction of those courts.
