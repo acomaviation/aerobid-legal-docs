@@ -1,3 +1,7 @@
+---
+title: Privacy policy
+---
+
 # Privacy Policy
 
 March 4, 2022
