@@ -1,6 +1,6 @@
-# Acceptable Use Policy
-
-March 4, 2022
+---
+title: Acceptable Use Policy
+---
 
 ### What's in these terms?
 
