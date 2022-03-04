@@ -63,5 +63,3 @@ Yes. Your web browser may allow you to manage your cookie preferences, including
 * Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 * Firefox: [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
 * Opera: [https://help.opera.com/en/latest/web-preferences/#cookies](https://help.opera.com/en/latest/web-preferences/#cookies)
-
-You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
