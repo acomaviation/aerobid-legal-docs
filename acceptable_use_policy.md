@@ -1,4 +1,4 @@
-# Conditions of Use
+# Acceptable Use Policy
 
 March 4, 2022
 
