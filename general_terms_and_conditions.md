@@ -134,7 +134,7 @@ Any content you upload to our Platform will be considered non-confidential and n
 
 We also have the right to disclose your identity to any third party who is claiming that any content posted or uploaded by you to our Platform constitutes a violation of their intellectual property rights, or of their right to privacy.
 
-We have the right to remove any posting you make on our Platform if, in our opinion, your post does not comply with the content standards set out in our [Acceptable Use Policy](https://aero.bid/legal/acceptable-usey).
+We have the right to remove any posting you make on our Platform if, in our opinion, your post does not comply with the content standards set out in our [Acceptable Use Policy](https://aero.bid/legal/acceptable-use).
 
 You are solely responsible for securing and backing up your content.
 
