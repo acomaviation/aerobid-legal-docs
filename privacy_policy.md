@@ -1,10 +1,6 @@
 ---
-title: Privacy policy
+title: Privacy Policy
 ---
-
-# Privacy Policy
-
-March 4, 2022
 
 ### Introduction
 
