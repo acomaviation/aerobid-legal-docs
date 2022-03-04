@@ -1,31 +1,14 @@
-<!-----
+# Conditions of Use
 
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.856 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Mar 04 2022 03:07:22 GMT-0800 (PST)
-* Source doc: Acceptable Use Policy_ACO1301_1_177622229_v12
------>
+**Last updated: March 4, 2022**
 
 **PLEASE READ THE TERMS OF THIS POLICY CAREFULLY BEFORE USING THE PLATFORM**
 
-**What's in these terms?**
+## What's in these terms?
 
 This acceptable use policy sets out the content standards that apply when you upload content to our online platform Aero.Bid (**our Platform**), make contact with other users on our Platform, link to our Platform, or interact with our Platform in any other way.
 
-**Who we are and how to contact us**
+## Who we are and how to contact us
 
 We are registered in England and Wales under company number 13120644 and have our registered office at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB, which is also our main trading address. Our VAT number is 396385541.
 
@@ -33,7 +16,7 @@ We are a limited company.
 
 To contact us, please email us to support@aero.bid address.
 
-**By using our Platform you accept these terms**
+## By using our Platform you accept these terms
 
 By using our Platform, you confirm that you accept the terms of this policy and that you agree to comply with them.
 
@@ -41,15 +24,15 @@ If you do not agree to these terms, you must not use our Platform.
 
 We recommend that you print a copy of these terms for future reference.
 
-**There are other terms that may apply to you**
+## There are other terms that may apply to you
 
 Our Platform Terms and Conditions ([https://aero.bid/docs/terms](https://aero.bid/docs/terms)) also apply to your use of our Platform.
 
-**We may make changes to the terms of this policy**
+## We may make changes to the terms of this policy
 
 We amend these terms from time to time. Every time you wish to use our Platform, please check these terms to ensure you understand the terms that apply at that time.  This policy was most recently updated on **01 March 2022**.
 
-**Prohibited uses**
+## Prohibited uses
 
 You may not use our Platform:
 
@@ -71,7 +54,7 @@ You also agree:
 * any software used in the provision of our Platform; or
 * any equipment or network or software owned or used by any third party.
 
-**Interactive services**
+## Interactive services
 
 Our Platform offers interactive services, including, without limitation:
 
@@ -79,15 +62,13 @@ Our Platform offers interactive services, including, without limitation:
 * The ability for operators (as defined in our operator subscription terms, available at [https://aero.bid/docs/operators](https://aero.bid/docs/operators)) to make bids, and for brokers to accept the most convenient of these bids.
 * Messaging functions enabling brokers and operators to contact one another via our Platform.
 
-(**interactive services.**)
-
 We are under no obligation to oversee, monitor or moderate any interactive service we provide on our Platform, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of our content standards, whether the service is moderated or not.
 
 Our Platform is not intended for children and is not suitable for use by children.
 
 We do not store terrorist content.
 
-**Content standards**
+## Content standards
 
 These content standards apply to any and all material which you contribute to our Platform (**Contribution**), and to any interactive services associated with it.
 
@@ -122,7 +103,6 @@ A Contribution must not:
 * Advocate, promote, incite any party to commit, or assist any unlawful or criminal act such as (by way of example only) copyright infringement or computer misuse.
 * Contain a statement which you know or believe, or have reasonable grounds for believing, that members of the public to whom the statement is, or is to be, published are likely to understand as a direct or indirect encouragement or other inducement to the commission, preparation or instigation of acts of terrorism.
 * Contain any advertising or promote any services or web links to other sites.
-* 
 
 For the avoidance of doubt, for any Contribution in the form of video content:
 
@@ -143,7 +123,7 @@ For the avoidance of doubt, for any Contribution in the form of video content:
 * unreasonably show such persons in dangerous situations.
 * You must use the functionality provided on our Platform to declare whether, as far as you know or can reasonably be expected to know, any video contains advertising.
 
-**Breach of this policy**
+## Breach of this policy
 
 When we consider that a breach of this acceptable use policy has occurred, we may take such action as we deem appropriate.
 
@@ -158,10 +138,10 @@ Failure to comply with this acceptable use policy constitutes a material breach 
 
 We exclude our liability for all action we may take in response to breaches of this acceptable use policy. The actions we may take are not limited to those described above, and we may take any other action we reasonably deem appropriate.
 
-**How this contract can be transferred**
+## How this contract can be transferred
 
 We can transfer our rights and obligations under these terms to any third party, provided this does not adversely affect your rights under these terms.
 
-**Which country's laws apply to any disputes?**
+## Which country's laws apply to any disputes?
 
 The terms of this policy, its subject matter and its formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales and we both hereby irrevocably waive any claim that we are not subject to the jurisdiction of those courts.
