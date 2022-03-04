@@ -1,6 +1,6 @@
-# Cookie Policy
-
-March 4, 2022
+---
+title: Cookie Policy
+---
 
 This cookie policy describes how ACOM Aviation Ltd (“**ACOM**”) uses cookies and other similar technologies in connection with the AeroBid platform (“**AeroBid**”). Any capitalised terms used and not otherwise defined below has the meaning assigned to it in the Privacy Policy.
 
