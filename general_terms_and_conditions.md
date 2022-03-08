@@ -1,5 +1,6 @@
 ---
 title: General Terms and Conditions
+updatedAt: 2022-03-08T17:32:10.991Z
 ---
 
 ### What's in these terms?
