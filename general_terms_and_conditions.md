@@ -26,9 +26,9 @@ We recommend that you print a copy of these terms for future reference.
 
 These terms of use refer to the following additional terms, which also apply to your use of our Platform:
 
-* Our Privacy Policy ([https://aero.bid/legal/privacy](https://aero.bid/legal/privacy)). See further under ‘How we may use your personal information’ below.
-* Our Acceptable Use Policy ([https://aero.bid/legal/acceptable-use](https://aero.bid/legal/acceptable-use)), which sets out the permitted uses and prohibited uses of our Platform. When using our Platform, you must comply with this Acceptable Use Policy.
-* Our Cookie Policy ([https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)), which sets out information about the cookies on our website.
+- Our Privacy Policy ([https://aero.bid/legal/privacy](https://aero.bid/legal/privacy)). See further under ‘How we may use your personal information’ below.
+- Our Acceptable Use Policy ([https://aero.bid/legal/acceptable-use](https://aero.bid/legal/acceptable-use)), which sets out the permitted uses and prohibited uses of our Platform. When using our Platform, you must comply with this Acceptable Use Policy.
+- Our Cookie Policy ([https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)), which sets out information about the cookies on our website.
 
 If you register with our Platform as a broker or operator, our broker subscription terms or operator subscription terms (as applicable) will also apply to you.
 
@@ -78,8 +78,8 @@ If you print off, copy, download, share or repost any part of our Platform in br
 
 You shall not conduct, facilitate, authorise or permit any text or data mining or web scraping in relation to our Platform or any services provided via, or in relation to, our Platform. This includes using (or permitting, authorising or attempting the use of):
 
-* Any "robot", "bot", "spider", "scraper" or other automated device, program, tool, algorithm, code, process or methodology to access, obtain, copy, monitor or republish any portion of our Platform or website or any data, content, information or services accessed via the same.
-* Any automated analytical technique aimed at analysing text and data in digital form to generate information which includes but is not limited to patterns, trends and correlations.
+- Any "robot", "bot", "spider", "scraper" or other automated device, program, tool, algorithm, code, process or methodology to access, obtain, copy, monitor or republish any portion of our Platform or website or any data, content, information or services accessed via the same.
+- Any automated analytical technique aimed at analysing text and data in digital form to generate information which includes but is not limited to patterns, trends and correlations.
 
 The provisions in this clause should be treated as an express reservation of our rights in this regard, including for the purposes of Article 4(3) of Digital Copyright Directive (_(EU) 2019/790_).
 
@@ -107,18 +107,18 @@ If you wish to complain about content uploaded by other users, please contact us
 
 ### Our responsibility for loss or damage suffered by you
 
-* We do not exclude or limit in any way our liability to you where it would be unlawful to do so. This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors and for fraud or fraudulent misrepresentation.
-* Different limitations and exclusions of liability will apply to liability arising as a result of the supply of subscription services to you, which will be set out in our broker subscription terms or operator subscription terms (as applicable to you).
-* We exclude all implied conditions, warranties, representations or other terms that may apply to our Platform or any content on it.
-* We will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
-  * use of, or inability to use, our Platform; or
-  * use of or reliance on any content displayed on our Platform.
-* In particular, we will not be liable for:
-  * loss of profits, sales, business, or revenue;
-  * business interruption;
-  * loss of anticipated savings;
-  * loss of business opportunity, goodwill or reputation; or
-  * any indirect or consequential loss or damage.
+- We do not exclude or limit in any way our liability to you where it would be unlawful to do so. This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors and for fraud or fraudulent misrepresentation.
+- Different limitations and exclusions of liability will apply to liability arising as a result of the supply of subscription services to you, which will be set out in our broker subscription terms or operator subscription terms (as applicable to you).
+- We exclude all implied conditions, warranties, representations or other terms that may apply to our Platform or any content on it.
+- We will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
+  - use of, or inability to use, our Platform; or
+  - use of or reliance on any content displayed on our Platform.
+- In particular, we will not be liable for:
+  - loss of profits, sales, business, or revenue;
+  - business interruption;
+  - loss of anticipated savings;
+  - loss of business opportunity, goodwill or reputation; or
+  - any indirect or consequential loss or damage.
 
 ### How we may use your personal information
 
@@ -144,8 +144,8 @@ We do not store terrorist content.
 
 When you upload or post content to our Platform, you grant us the following rights to use that content:
 
-* a worldwide, non-exclusive, royalty-free, transferable licence to use, reproduce, distribute, prepare derivative works of, display, and perform that user-generated content in connection with the service provided by our Platform and across different media including to promote our Platform or our subscription services forever;
-* a worldwide, non-exclusive, royalty-free, transferable licence for other users, partners or advertisers to use the content in accordance with the functionality of our Platform forever.
+- a worldwide, non-exclusive, royalty-free, transferable licence to use, reproduce, distribute, prepare derivative works of, display, and perform that user-generated content in connection with the service provided by our Platform and across different media including to promote our Platform or our subscription services forever;
+- a worldwide, non-exclusive, royalty-free, transferable licence for other users, partners or advertisers to use the content in accordance with the functionality of our Platform forever.
 
 ### We are not responsible for viruses and you must not introduce them
 
