@@ -5,7 +5,7 @@ updatedAt: 2022-03-10T18:13:49Z
 
 <!-----
 NOTE TO EDITORS OF THIS FILE:
-The indented ordered lists show as standard Markdown lists when viewed raw but will be rendered as the "legal numbering system" (eg, 1, 1.1, 1.2, 2, 2.1, etc) when displayed. Please be very aware of your indents when editing as this system as minor edits can result in the numbering of the contract points to change, which will create issues with references. Thanks, Lee.
+The indented ordered lists show as standard Markdown lists when viewed raw but will be rendered as the "legal numbering system" (eg, 1, 1.1, 1.2, 2, 2.1, etc) when displayed. Please be very aware of your indents when editing as minor changes can result in the numbering of the contract points to change, which will create issues with references. Thanks, Lee.
 ----->
 
 _(relating to the AeroBid Platform)_
