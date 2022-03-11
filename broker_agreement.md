@@ -1,12 +1,7 @@
 ---
-title: Broker's Terms and Conditions of Subscription
-updatedAt: 2022-03-10T18:13:49Z
+title: Broker’s Terms and Conditions of Subscription
+updatedAt: 2022-03-11T09:13:37Z
 ---
-
-<!-----
-NOTE TO EDITORS OF THIS FILE:
-The indented ordered lists show as standard Markdown lists when viewed raw but will be rendered as the "legal numbering system" (eg, 1, 1.1, 1.2, 2, 2.1, etc) when displayed. Please be very aware of your indents when editing as minor changes can result in the numbering of the contract points to change, which will create issues with references. Thanks, Lee.
------>
 
 _(relating to the AeroBid Platform)_
 
@@ -15,8 +10,8 @@ _(relating to the AeroBid Platform)_
 ### Background
 
 1. ACOM operates a platform which it makes available to subscribers via the internet on a monthly subscription basis for the purpose of offering a real time bidding platform to introduce operators and brokers in the chartered aircraft market.
-2. You (the **Broker**) are a broker in the chartered aircraft market and wish to use ACOM's platform for its business operations.
-3. ACOM has agreed to provide and the Broker has agreed to take and pay a subscription for ACOM's platform subject to these terms and conditions.
+2. You (the **Broker**) are a broker in the chartered aircraft market and wish to use ACOM’s platform for its business operations.
+3. ACOM has agreed to provide and the Broker has agreed to take and pay a subscription for ACOM’s platform subject to these terms and conditions.
 
 ### Agreed Terms
 
@@ -78,7 +73,7 @@ _(relating to the AeroBid Platform)_
       - **Vulnerability:**
         - a weakness in the computational logic (for example, code) found in software and hardware components that when exploited, results in a negative impact to the confidentiality, integrity, or availability, and the term Vulnerabilities shall be construed accordingly.
    2. Clause headings shall not affect the interpretation of these Terms.
-   3. A person includes an individual, corporate or unincorporated body (whether or not having separate legal personality) and that person's legal and personal representatives, successors or permitted assigns.
+   3. A person includes an individual, corporate or unincorporated body (whether or not having separate legal personality) and that person’s legal and personal representatives, successors or permitted assigns.
    4. A reference to a company shall include any company, corporation or other body corporate, wherever and however incorporated or established.
    5. Unless the context otherwise requires, words in the singular shall include the plural and in the plural shall include the singular.
    6. Unless the context otherwise requires, a reference to one gender shall include a reference to the other genders.
@@ -87,7 +82,7 @@ _(relating to the AeroBid Platform)_
    9. A reference to writing or written includes e-mail.
    10. References to clauses are to the clauses of these Terms.
 2. #### About ACOM
-   1. ACOM Aviation Ltd (company number 13120644) (**ACOM**) is a company registered in England and Wales whose registered office is at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB. ACOM’s VAT number is 396385541. ACOM operates the website www.aero.bid.
+   1. ACOM Aviation Ltd (company number 13120644) (**ACOM**) is a company registered in England and Wales whose registered office is at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB. ACOM’s VAT number is 396385541. ACOM operates the website [www.aero.bid](https://www.aero.bid).
    2. To contact ACOM, telephone our customer service team at +441865819991 or email us at support@aero.bid. Formal notice of any matter under the Contract should be given in accordance with clause 26.
    3. ACOM maintains worldwide professional liability insurance with CFC Underwriting Limited Registered Office: 85 Gracechurch Street, London EC3V 0AA.
 3. #### The Contract
@@ -102,8 +97,8 @@ _(relating to the AeroBid Platform)_
    3. ACOM’s acceptance of the Broker’s subscription order takes place when it sends an email to the Broker to accept it, at which point and on which date (**Effective Date**) the Contract between ACOM and the Broker will come into existence. Following acceptance of the Broker’s subscription order the Broker shall pay the applicable Subscription Fees to be able to use the Platform to submit Charter Requests and view Bids.
    4. If ACOM is unable to supply the Broker a subscription to the Platform for any reason, it will inform the Broker of this by email and it will not process the order. If the Broker has already paid a Subscription Fee, this will be refunded in full.
 5. #### User subscriptions
-   1. Subject to the Broker purchasing the User Subscriptions in accordance with clause 6.2 and clause 11.1, the restrictions set out in this clause 5 and the other terms and conditions of these Terms, ACOM hereby grants to the Broker a non-exclusive, non-transferable right, without the right to grant sublicences, to permit the Authorised Users to use the Platform during the Subscription Term solely for the Purpose.
-   2. The Broker shall comply with (and ensure its Authorised Users comply with) ACOM’s platform terms and conditions, acceptable use policy and privacy policy (each available at www.Aero.bid (**Policies**) when accessing and using the Platform. If there is any conflict between the terms of the Policies and these Terms, these Terms shall prevail.
+   1. Subject to the Broker purchasing the User Subscriptions in accordance with clause 6.2 and clause 11.1, the restrictions set out in this clause 5 and the other terms and conditions of these Terms, ACOM hereby grants to the Broker a non-exclusive, non-transferable right, without the right to grant sub-licences, to permit the Authorised Users to use the Platform during the Subscription Term solely for the Purpose.
+   2. The Broker shall comply with (and ensure its Authorised Users comply with) ACOM’s platform terms and conditions, acceptable use policy and privacy policy (each available at [www.aero.bid](https://www.aero.bid) (**Policies**) when accessing and using the Platform. If there is any conflict between the terms of the Policies and these Terms, these Terms shall prevail.
    3. In relation to the Authorised Users, the Broker undertakes that:
       1. the maximum number of Authorised Users that it authorises to access and use the Platform shall not exceed the number of User Subscriptions it has purchased from time to time;
       2. it will not allow or suffer any User Subscription to be used by more than one individual Authorised User unless it has been reassigned in its entirety to another individual Authorised User, in which case the prior Authorised User shall no longer have any right to access or use the Platform;
@@ -115,12 +110,12 @@ _(relating to the AeroBid Platform)_
       2. access all or any part of the Platform in order to build a product or service which competes with the Platform; or
       3. subject to clause 23.1, license, sell, rent, lease, transfer, assign, distribute, display, disclose, or otherwise commercially exploit, or otherwise make the Platform available to any third party except the Authorised Users, or
       4. attempt to obtain, or assist third parties in obtaining, access to the Platform other than as provided under this clause 5; or
-      5. introduce or permit the introduction of any Virus or Vulnerability into ACOM's Platform or Software.
+      5. introduce or permit the introduction of any Virus or Vulnerability into ACOM’s Platform or Software.
    5. The Broker shall use all reasonable endeavours to prevent any unauthorised access to, or use of, the Platform and, in the event of any such unauthorised access or use, promptly notify ACOM.
    6. The rights provided under this clause 5 are granted to the Broker only, and shall not be considered granted to any subsidiary or holding company of the Broker.
 6. #### Additional user subscriptions
    1. Subject to clause 6.2, the Broker may, from time to time during any Subscription Term, purchase additional User Subscriptions and ACOM shall grant access to the Platform to such additional Authorised Users in accordance with the provisions of these Terms.
-   2. If the Broker wishes to purchase additional User Subscriptions, the Broker shall use the ‘Add New Users’ onscreen prompts on the Platform and the Broker shall pay the additional relevant fees for such additional User Subscriptions as set out in the billing page on the Platform (pro-rated for the first month if the additional User Subscription commences part way through the month).
+   2. If the Broker wishes to purchase additional User Subscriptions, the Broker shall use the “Add New Users” onscreen prompts on the Platform and the Broker shall pay the additional relevant fees for such additional User Subscriptions as set out in the billing page on the Platform (pro-rated for the first month if the additional User Subscription commences part way through the month).
 7. #### Charter request process
    1. The Authorised Users may submit a Charter Request on behalf of the Broker by using the appropriate online prompts on the Platform. In the event that the Broker submits a Charter Request onto the Platform, all Operators subscribed to the Platform, will be able to view the request in real-time on the Platform’s live market page.
    2. The Broker agrees and acknowledges that the information contained in the Charter Request, including the Broker’s identity and contact details, may be accessed by or disclosed to all Operators on the Platform. Any such Bid submitted by an Operator shall be available to view by the Broker on the Platform.
@@ -137,26 +132,26 @@ _(relating to the AeroBid Platform)_
    1. Both parties will comply with:
       1. all applicable requirements of the Policies in relation to the use and protection of data; and
       2. Applicable Data Protection Laws.
-9. #### ACOM's obligations
+9. #### ACOM’s obligations
    1. ACOM shall, during the Subscription Term, provide the Platform to the Broker on and subject to these Terms.
    2. ACOM shall use commercially reasonable endeavours to make the Platform available 24 hours a day, seven days a week, except for:
       1. planned maintenance carried out at such times as notified to the users of the Platform from time to time; and
       2. unscheduled maintenance performed outside Normal Business Hours.
-   3. The undertaking at clause 9.1 shall not apply to the extent of any non-conformance which is caused by use of the Platform contrary to ACOM's instructions, or modification or alteration of the Platform by any party other than ACOM or ACOM's duly authorised contractors or agents. If the Platform does not conform with the foregoing undertaking, ACOM will, at its expense, use all reasonable commercial endeavours to correct any such non-conformance promptly, or provide the Broker with an alternative means of accomplishing the desired performance. Such correction or substitution constitutes the Broker's sole and exclusive remedy for any breach of the undertaking set out in clause 9.1 and ACOM accepts no liability for loss caused due to the Platform being unavailable in accordance with clause 9.2 or due to matters beyond ACOM’s reasonable control.
+   3. The undertaking at clause 9.1 shall not apply to the extent of any non-conformance which is caused by use of the Platform contrary to ACOM’s instructions, or modification or alteration of the Platform by any party other than ACOM or ACOM’s duly authorised contractors or agents. If the Platform does not conform with the foregoing undertaking, ACOM will, at its expense, use all reasonable commercial endeavours to correct any such non-conformance promptly, or provide the Broker with an alternative means of accomplishing the desired performance. Such correction or substitution constitutes the Broker’s sole and exclusive remedy for any breach of the undertaking set out in clause 9.1 and ACOM accepts no liability for loss caused due to the Platform being unavailable in accordance with clause 9.2 or due to matters beyond ACOM’s reasonable control.
    4. ACOM:
       1. does not warrant that:
-         1. the Broker's use of the Platform will be uninterrupted or error-free;
-         2. that the Platform and/or the information obtained by the Broker through the Platform will meet the Broker's requirements;
+         1. the Broker’s use of the Platform will be uninterrupted or error-free;
+         2. that the Platform and/or the information obtained by the Broker through the Platform will meet the Broker’s requirements;
          3. the Software or the Platform will be free from Vulnerabilities or Viruses.
       2. is not responsible for any delays, delivery failures, or any other loss or damage resulting from the transfer of data over communications networks and facilities, including the internet, and the Broker acknowledges that the Platform may be subject to limitations, delays and other problems inherent in the use of such communications facilities.
    5. ACOM shall be under no obligation to introduce Operators to the Broker and offers no guarantee that the Broker will be provided with any Bids or that any Bid submitted will be suitable for the Broker.
    6. The Contract shall not prevent ACOM from entering into similar agreements with third parties, including other brokers in the aviation industry and competitors of the Broker.
    7. ACOM warrants that it has and will maintain all necessary licences, consents, and permissions necessary for the performance of its obligations under these Terms.
-10. #### Broker's obligations
+10. #### Broker’s obligations
     1. The Broker shall:
        1. without affecting its other obligations under these Terms, comply with all applicable laws and regulations with respect to its activities under the Contract;
-       2. ensure that the Authorised Users use the Platform in accordance with these Terms and shall be responsible for any Authorised User's breach of these Terms; and
-       3. be solely responsible for procuring, maintaining and securing its network connections and telecommunications links from its systems to the Platform, and all problems, conditions, delays and all other loss or damage arising from or relating to the Broker's network connections or telecommunications links or caused by the internet.
+       2. ensure that the Authorised Users use the Platform in accordance with these Terms and shall be responsible for any Authorised User’s breach of these Terms; and
+       3. be solely responsible for procuring, maintaining and securing its network connections and telecommunications links from its systems to the Platform, and all problems, conditions, delays and all other loss or damage arising from or relating to the Broker’s network connections or telecommunications links or caused by the internet.
     2. The Broker warrants to ACOM that by registering on the Platform and/or submitting Charter Requests and/or contacting Operators regarding a Bid, it shall not be in breach of any court order or any express or implied terms of any agreement, contract or other obligation binding on the Broker.
     3. Prior to registering on the Platform (and annually or as otherwise required by ACOM thereafter) the Broker shall provide ACOM with the following documentation which shall be added to the Broker’s profile on the Platform and will be available for other users of the Platform to view:
        1. Companies House Certificate of Incorporation or equivalent incorporation documents in other jurisdictions; and
@@ -169,45 +164,45 @@ _(relating to the AeroBid Platform)_
           2. monthly in advance for the Subscription Fees (and any additional Users Subscription in accordance with clause 6.2);
        2. its approved purchase order information to ACOM, ACOM shall invoice the Broker for the Subscription Fees (and any additional Users Subscription Fees in accordance with clause 6.2) and every 30 days thereafter for each subsequent month’s Subscription Fees (and additional Users Subscription Fees if relevant) and the Broker shall pay each invoice within 30 days after the date of such invoice.
     3. If ACOM has not received payment within 10 days after the due date, and without prejudice to any other rights and remedies of ACOM:
-       1. ACOM may, without liability to the Broker, disable the Broker's password, account and access to all or part of the Platform and ACOM shall be under no obligation to provide access to any or all of the Platform while the invoice(s) concerned remain unpaid; and
+       1. ACOM may, without liability to the Broker, disable the Broker’s password, account and access to all or part of the Platform and ACOM shall be under no obligation to provide access to any or all of the Platform while the invoice(s) concerned remain unpaid; and
        2. interest shall accrue on a daily basis on such due amounts at an annual rate equal to 3% over the then current base lending rate of Lloyds Bank Plc from time to time, commencing on the due date and continuing until fully paid, whether before or after judgment.
     4. All amounts and fees stated or referred to in the Contract:
        1. shall be payable in USD; are non-cancellable and non-refundable;
-       2. are exclusive of value added tax (or other applicable taxes), which shall be added to ACOM's invoice(s) at the appropriate rate.
-    5. ACOM shall be entitled to increase the Subscription Fees and the fees payable in respect of the additional User Subscriptions purchased pursuant to clause 6 upon 30 days' prior notice to the Broker and the billing page will be amended accordingly.
+       2. are exclusive of value added tax (or other applicable taxes), which shall be added to ACOM’s invoice(s) at the appropriate rate.
+    5. ACOM shall be entitled to increase the Subscription Fees and the fees payable in respect of the additional User Subscriptions purchased pursuant to clause 6 upon 30 days prior notice to the Broker and the billing page will be amended accordingly.
 12. #### Proprietary rights
-    1. The Broker acknowledges and agrees that ACOM and/or its licensors own all intellectual property rights in the Platform. Except as expressly stated herein, the Contract does not grant the Broker any rights to, under or in, any patents, copyright, database right, trade secrets, trade names, trade marks (whether registered or unregistered), or any other rights or licences in respect of the Platform.
+    1. The Broker acknowledges and agrees that ACOM and/or its licensors own all intellectual property rights in the Platform. Except as expressly stated herein, the Contract does not grant the Broker any rights to, under or in, any patents, copyright, database right, trade secrets, trade names, trademarks (whether registered or unregistered), or any other rights or licences in respect of the Platform.
     2. ACOM confirms that it has all the rights in relation to the Platform that are necessary to grant all the rights it purports to grant under, and in accordance with, these Terms.
 13. #### Confidentiality
-    1. Each party may be given access to Confidential Information from the other party in order to perform its obligations under these Terms. A party's Confidential Information shall not be deemed to include information that:
+    1. Each party may be given access to Confidential Information from the other party in order to perform its obligations under these Terms. A party’s Confidential Information shall not be deemed to include information that:
        1. is or becomes publicly known other than through any act or omission of the receiving party;
-       2. was in the other party's lawful possession before the disclosure;
+       2. was in the other party’s lawful possession before the disclosure;
        3. is lawfully disclosed to the receiving party by a third party without restriction on disclosure; or
        4. is independently developed by the receiving party, which independent development can be shown by written evidence.
-    2. Subject to clause 13.4, each party shall hold the other's Confidential Information in confidence and not make the other's Confidential Information available to any third party, or use the other's Confidential Information for any purpose other than the implementation of the Contract.
-    3. Each party shall take all reasonable steps to ensure that the other's Confidential Information to which it has access is not disclosed or distributed by its employees or agents in violation of these Terms.
+    2. Subject to clause 13.4, each party shall hold the other’s Confidential Information in confidence and not make the other’s Confidential Information available to any third party, or use the other’s Confidential Information for any purpose other than the implementation of the Contract.
+    3. Each party shall take all reasonable steps to ensure that the other’s Confidential Information to which it has access is not disclosed or distributed by its employees or agents in violation of these Terms.
     4. A party may disclose Confidential Information to the extent such Confidential Information is required to be disclosed by law, by any governmental or other regulatory authority or by a court or other authority of competent jurisdiction, provided that, to the extent it is legally permitted to do so, it gives the other party as much notice of such disclosure as possible and, where notice of disclosure is not prohibited and is given in accordance with this clause 13.4, it takes into account the reasonable requests of the other party in relation to the content of such disclosure.
     5. No party shall make, or permit any person to make, any public announcement concerning the Contract without the prior written consent of the other parties (such consent not to be unreasonably withheld or delayed), except as required by law, any governmental or regulatory authority (including, without limitation, any relevant securities exchange), any court or other authority of competent jurisdiction.
     6. The above provisions of this clause 13 shall survive termination of the Contract, however arising.
 14. #### Indemnity
-    1. The Broker shall defend, indemnify and hold harmless ACOM against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) arising out of or in connection with the Broker's use of the Platform in breach of these Terms.
-    2. ACOM shall defend the Broker against any claim that the Broker's use of the Platform in accordance with these Terms infringes any third party copyright, trade mark, database right or right of confidentiality, and shall indemnify the Broker for any amounts awarded against the Broker in judgment or settlement of such claims, provided that:
+    1. The Broker shall defend, indemnify and hold harmless ACOM against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) arising out of or in connection with the Broker’s use of the Platform in breach of these Terms.
+    2. ACOM shall defend the Broker against any claim that the Broker’s use of the Platform in accordance with these Terms infringes any third party copyright, trademark, database right or right of confidentiality, and shall indemnify the Broker for any amounts awarded against the Broker in judgment or settlement of such claims, provided that:
        1. ACOM is given prompt notice of any such claim;
-       2. the Broker does not make any admission, or otherwise attempt to compromise or settle the claim and provides reasonable co-operation to ACOM in the defence and settlement of such claim, at ACOM's expense; and
+       2. the Broker does not make any admission, or otherwise attempt to compromise or settle the claim and provides reasonable co-operation to ACOM in the defence and settlement of such claim, at ACOM’s expense; and
        3. ACOM is given sole authority to defend or settle the claim.
-    3. In the defence or settlement of any claim, ACOM may procure the right for the Broker to continue using the Platform, replace or modify the Platform so that they become non-infringing or, if such remedies are not reasonably available, terminate the Contract on 2 Business Days' notice to the Broker without any additional liability or obligation to pay liquidated damages or other additional costs to the Broker.
+    3. In the defence or settlement of any claim, ACOM may procure the right for the Broker to continue using the Platform, replace or modify the Platform so that they become non-infringing or, if such remedies are not reasonably available, terminate the Contract on 2 Business Days notice to the Broker without any additional liability or obligation to pay liquidated damages or other additional costs to the Broker.
     4. In no event shall ACOM, its employees, agents and sub-contractors be liable to the Broker to the extent that the alleged infringement is based on:
        1. a modification of the Platform by anyone other than ACOM; or
-       2. the Broker's use of the Platform in breach of these Terms or any instructions given to Broker by ACOM; or
-       3. the Broker's use of the Platform after notice of the alleged or actual infringement from ACOM or any appropriate authority.
-    5. The foregoing states the Broker's sole and exclusive rights and remedies, and ACOM's (including ACOM's employees', agents' and sub-contractors') entire obligations and liability, for infringement of any patent, copyright, trade mark, database right or right of confidentiality.
+       2. the Broker’s use of the Platform in breach of these Terms or any instructions given to Broker by ACOM; or
+       3. the Broker’s use of the Platform after notice of the alleged or actual infringement from ACOM or any appropriate authority.
+    5. The foregoing states the Broker’s sole and exclusive rights and remedies, and ACOM’s (including ACOM’s employees, agents and sub-contractors) entire obligations and liability, for infringement of any patent, copyright, trademark, database right or right of confidentiality.
 15. #### Limitation of liability
     1. Except as expressly and specifically provided in these Terms:
        1. the Broker assumes sole responsibility for results obtained from the use of the Platform by the Broker, and for conclusions drawn from such use. ACOM shall have no liability for any damage caused by errors or omissions in any information or instructions submitted or provided by the Broker or any Operator in connection with the Platform;
        2. all warranties, representations, conditions and all other terms of any kind whatsoever implied by statute or common law are, to the fullest extent permitted by applicable law, excluded from the Contract; and
-       3. the Platform is provided to the Broker on an "as is" basis.
+       3. the Platform is provided to the Broker on an “as is” basis.
     2. Nothing in these Terms excludes the liability of ACOM:
-       1. for death or personal injury caused by ACOM's negligence; or
+       1. for death or personal injury caused by ACOM’s negligence; or
        2. for fraud or fraudulent misrepresentation.
     3. Subject to clause 15.1 and clause 15.2 ACOM shall not be liable whether in tort (including for negligence or breach of statutory duty), contract, misrepresentation, restitution or otherwise for any loss of profits, loss of business, depletion of goodwill and/or similar losses or loss or corruption of data or information, or pure economic loss, or for any special, indirect or consequential loss, costs, damages, charges or expenses however arising under the Contract.
     4. Nothing in these Terms excludes the liability of the Broker for any breach, infringement or misappropriation of ACOM’s intellectual property rights.
@@ -225,10 +220,10 @@ _(relating to the AeroBid Platform)_
        7. an application is made to court, or an order is made, for the appointment of an administrator, or if a notice of intention to appoint an administrator is given or if an administrator is appointed, over the other party (being a company, partnership or limited liability partnership);
        8. the holder of a qualifying floating charge over the assets of that other party (being a company or limited liability partnership) has become entitled to appoint or has appointed an administrative receiver;
        9. a person becomes entitled to appoint a receiver over the assets of the other party or a receiver is appointed over the assets of the other party;
-       10. a creditor or encumbrancer of the other party attaches or takes possession of, or a distress, execution, sequestration or other such process is levied or enforced on or sued against, the whole or any part of the other party's assets and such attachment or process is not discharged within 14 days;
+       10. a creditor or encumbrancer of the other party attaches or takes possession of, or a distress, execution, sequestration or other such process is levied or enforced on or sued against, the whole or any part of the other party’s assets and such attachment or process is not discharged within 14 days;
        11. any event occurs, or proceeding is taken, with respect to the other party in any jurisdiction to which it is subject that has an effect equivalent or similar to any of the events mentioned in clause 16.2(c) to clause 16.2(j) (inclusive);
        12. the other party suspends or ceases, or threatens to suspend or cease, carrying on all or a substantial part of its business; or
-       13. the other party's financial position deteriorates so far as to reasonably justify the opinion that its ability to give effect to these Terms is in jeopardy.
+       13. the other party’s financial position deteriorates so far as to reasonably justify the opinion that its ability to give effect to these Terms is in jeopardy.
     3. On termination of the Contract for any reason:
        1. all licences granted under these Terms shall immediately terminate and the Broker shall immediately cease all use of the Platform; and
        2. any rights, remedies, obligations or liabilities of the parties that have accrued up to the date of termination, including the right to claim damages in respect of any breach of the Contract which existed at or before the date of termination shall not be affected or prejudiced.
