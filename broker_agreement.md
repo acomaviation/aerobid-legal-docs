@@ -5,7 +5,7 @@ updatedAt: 2023-01-03T00:00:00.991Z
 
 _(relating to the AeroBid Platform)_
 
-**The Broker’s attention is particularly drawn to the provisions of clause 15 (Limitation of liability).**
+**The Broker’s attention is particularly drawn to the provisions of clause 16 (Limitation of liability).**
 
 ### Background
 
@@ -50,7 +50,7 @@ _(relating to the AeroBid Platform)_
       on which the Broker can place a Bid.
 
       - **Confidential Information:**
-        - information that is proprietary or confidential and is either clearly labelled as such or identified as Confidential Information in clause 13.
+        - information that is proprietary or confidential and is either clearly labelled as such or identified as Confidential Information in clause 14.
       - **Contract:**
         - has the meaning given in clause 3.1.
       - **Effective Date:**
@@ -72,13 +72,13 @@ _(relating to the AeroBid Platform)_
       - **Subscription Fees:**
         - the subscription fees payable by the Broker to ACOM for the User Subscriptions as per the fee schedule published on the billing page of the Platform and updated in accordance with clause 12.5.
       - **Subscription Term:**
-        - has the meaning given in clause 16.1.
+        - has the meaning given in clause 17.1.
       - **Terms:**
         - has the meaning given in clause 3.1.
       - **UK GDPR:**
         - has the meaning given to it in the Data Protection Act 2018.
       - **User Subscriptions:**
-        - the user subscriptions purchased by the Broker pursuant to clause 11.1 which entitle Authorised Users to access and use the Platform in accordance with these Terms.
+        - the user subscriptions purchased by the Broker pursuant to clause 12.1 which entitle Authorised Users to access and use the Platform in accordance with these Terms.
       - **Virus:**
         - any thing or device (including any software, code, file or programme) which may: prevent, impair or otherwise adversely affect the operation of any computer software, hardware or network, any telecommunications service, equipment or network or any other service or device which may; prevent, impair or otherwise adversely affect access to or the operation of any programme or data, including the reliability of any programme or data (whether by re-arranging, altering or erasing the programme or data in whole or part or otherwise); or adversely affect the user experience, including malicious software such as worms, trojan horses, viruses and other similar things or devices.
       - **Vulnerability:**
@@ -96,7 +96,7 @@ _(relating to the AeroBid Platform)_
 
 2. #### About ACOM
    1. ACOM Aviation Ltd (company number 13120644) (**ACOM**) is a company registered in England and Wales whose registered office is at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB. ACOM’s VAT number is 396385541. ACOM operates the website [www.aero.bid](https://www.aero.bid).
-   2. To contact ACOM, telephone our customer service team at +441865819991 or email us at support@aero.bid. Formal notice of any matter under the Contract should be given in accordance with clause 26.
+   2. To contact ACOM, telephone our customer service team at +441865819991 or email us at support@aero.bid. Formal notice of any matter under the Contract should be given in accordance with clause 27.
    3. ACOM maintains worldwide professional liability insurance with CFC Underwriting Limited Registered Office: 85 Gracechurch Street, London EC3V 0AA.
 3. #### The Contract
    1. These terms and conditions (**Terms**) apply to the subscription order by the Broker and the supply of the Platform by ACOM (**Contract**). The Terms apply to the exclusion of any other terms the Broker may seek to impose or incorporate, or which are implied by law, trade custom, practice or course of dealings.
@@ -110,7 +110,7 @@ _(relating to the AeroBid Platform)_
    3. ACOM’s acceptance of the Broker’s subscription order takes place when it sends an email to the Broker to accept it, at which point and on which date (**Effective Date**) the Contract between ACOM and the Broker will come into existence. Following acceptance of the Broker’s subscription order the Broker shall pay the applicable Subscription Fees to be able to use the Platform to submit Charter Requests and view Bids and view Empty Legs and make Bids.
    4. If ACOM is unable to supply the Broker a subscription to the Platform for any reason, it will inform the Broker of this by email and it will not process the order. If the Broker has already paid a Subscription Fee, this will be refunded in full.
 5. #### User subscriptions
-   1. Subject to the Broker purchasing the User Subscriptions in accordance with clause 6.2 and clause 11.1, the restrictions set out in this clause 5 and the other terms and conditions of these Terms, ACOM hereby grants to the Broker a non-exclusive, non-transferable right, without the right to grant sub-licences, to permit the Authorised Users to use the Platform during the Subscription Term solely for the Purpose.
+   1. Subject to the Broker purchasing the User Subscriptions in accordance with clause 6.2 and clause 12.1, the restrictions set out in this clause 5 and the other terms and conditions of these Terms, ACOM hereby grants to the Broker a non-exclusive, non-transferable right, without the right to grant sub-licences, to permit the Authorised Users to use the Platform during the Subscription Term solely for the Purpose.
    2. The Broker shall comply with (and ensure its Authorised Users comply with) ACOM’s platform terms and conditions, acceptable use policy and privacy policy (each available at [www.aero.bid](https://www.aero.bid) (**Policies**) when accessing and using the Platform and its features. If there is any conflict between the terms of the Policies and these Terms, these Terms shall prevail.
    3. In relation to the Authorised Users, the Broker undertakes that:
       1. the maximum number of Authorised Users that it authorises to access and use the Platform shall not exceed the number of User Subscriptions it has purchased from time to time;
@@ -121,7 +121,7 @@ _(relating to the AeroBid Platform)_
          1. attempt to copy, modify, duplicate, create derivative works from, frame, mirror, republish, download, display, transmit, or distribute all or any portion of the Software in any form or media or by any means; or
          2. attempt to de-compile, reverse compile, disassemble, reverse engineer or otherwise reduce to human-perceivable form all or any part of the Software; or
       2. access all or any part of the Platform in order to build a product or service which competes with the Platform; or
-      3. subject to clause 23.1, license, sell, rent, lease, transfer, assign, distribute, display, disclose, or otherwise commercially exploit, or otherwise make the Platform available to any third party except the Authorised Users, or
+      3. subject to clause 24.1, license, sell, rent, lease, transfer, assign, distribute, display, disclose, or otherwise commercially exploit, or otherwise make the Platform available to any third party except the Authorised Users, or
       4. attempt to obtain, or assist third parties in obtaining, access to the Platform other than as provided under this clause 5; or
       5. introduce or permit the introduction of any Virus or Vulnerability into ACOM’s Platform or Software.
    5. The Broker shall use all reasonable endeavours to prevent any unauthorised access to, or use of, the Platform and, in the event of any such unauthorised access or use, promptly notify ACOM.
@@ -164,7 +164,7 @@ _(relating to the AeroBid Platform)_
     2. ACOM shall use commercially reasonable endeavours to make the Platform available 24 hours a day, seven days a week, except for:
        1. planned maintenance carried out at such times as notified to the users of the Platform from time to time; and
        2. unscheduled maintenance performed outside Normal Business Hours.
-    3. The undertaking at clause 9.1 shall not apply to the extent of any non-conformance which is caused by use of the Platform contrary to ACOM’s instructions, or modification or alteration of the Platform by any party other than ACOM or ACOM’s duly authorised contractors or agents. If the Platform does not conform with the foregoing undertaking, ACOM will, at its expense, use all reasonable commercial endeavours to correct any such non-conformance promptly, or provide the Broker with an alternative means of accomplishing the desired performance. Such correction or substitution constitutes the Broker’s sole and exclusive remedy for any breach of the undertaking set out in clause 9.1 and ACOM accepts no liability for loss caused due to the Platform being unavailable in accordance with clause 9.2 or due to matters beyond ACOM’s reasonable control.
+    3. The undertaking at clause 10.1 shall not apply to the extent of any non-conformance which is caused by use of the Platform contrary to ACOM’s instructions, or modification or alteration of the Platform by any party other than ACOM or ACOM’s duly authorised contractors or agents. If the Platform does not conform with the foregoing undertaking, ACOM will, at its expense, use all reasonable commercial endeavours to correct any such non-conformance promptly, or provide the Broker with an alternative means of accomplishing the desired performance. Such correction or substitution constitutes the Broker’s sole and exclusive remedy for any breach of the undertaking set out in clause 10.1 and ACOM accepts no liability for loss caused due to the Platform being unavailable in accordance with clause 10.2 or due to matters beyond ACOM’s reasonable control.
     4. ACOM:
        1. does not warrant that:
           1. the Broker’s use of the Platform will be uninterrupted or error-free;
@@ -184,7 +184,7 @@ _(relating to the AeroBid Platform)_
        1. Companies House Certificate of Incorporation or equivalent incorporation documents in other jurisdictions; and
        2. Certificate of Good Standing.
 12. #### Charges and payment
-    1. The Broker shall pay the applicable Subscription Fee to ACOM for the User Subscriptions in accordance with this clause 11.
+    1. The Broker shall pay the applicable Subscription Fee to ACOM for the User Subscriptions in accordance with this clause 12.
     2. The Broker shall on the Effective Date (and as required thereafter) provide to ACOM (or its credit card payment provider) valid, up-to-date and complete credit card details or approved purchase order information acceptable to ACOM and any other relevant valid, up-to-date and complete contact and billing details and, if the Broker provides:
        1. its credit card details to ACOM or ACOM’s credit card payment provider, the Broker hereby authorises ACOM or the credit card payment provider to bill such credit card:
           1. on the Effective Date for the Subscription Fee for the first month; and
@@ -192,7 +192,7 @@ _(relating to the AeroBid Platform)_
        2. its approved purchase order information to ACOM, ACOM shall invoice the Broker for the Subscription Fees (and any additional Users Subscription Fees in accordance with clause 6.2) and every 30 days thereafter for each subsequent month’s Subscription Fees (and additional Users Subscription Fees if relevant) and the Broker shall pay each invoice within 30 days after the date of such invoice.
     3. If ACOM has not received payment within 10 days after the due date, and without prejudice to any other rights and remedies of ACOM:
        1. ACOM may, without liability to the Broker, disable the Broker’s password, account and access to all or part of the Platform and ACOM shall be under no obligation to provide access to any or all of the Platform while the invoice(s) concerned remain unpaid; and
-       2. interest shall accrue on a daily basis on such due amounts at an annual rate equal to 3% over the then current base lending rate of Lloyds Bank Plc from time to time, commencing on the due date and continuing until fully paid, whether before or after judgment.
+       2. interest shall accrue on a daily basis on such due amounts at an annual rate equal to 3% over the then current base lending rate of Lloyds Bank Plc from time to time, commencing on the due date and continuing until fully paid, whether before or after judgement.
     4. All amounts and fees stated or referred to in the Contract:
        1. shall be payable in USD; are non-cancellable and non-refundable;
        2. are exclusive of value added tax (or other applicable taxes), which shall be added to ACOM’s invoice(s) at the appropriate rate.
@@ -206,11 +206,11 @@ _(relating to the AeroBid Platform)_
        2. was in the other party’s lawful possession before the disclosure;
        3. is lawfully disclosed to the receiving party by a third party without restriction on disclosure; or
        4. is independently developed by the receiving party, which independent development can be shown by written evidence.
-    2. Subject to clause 13.4, each party shall hold the other’s Confidential Information in confidence and not make the other’s Confidential Information available to any third party, or use the other’s Confidential Information for any purpose other than the implementation of the Contract.
+    2. Subject to clause 14.4, each party shall hold the other’s Confidential Information in confidence and not make the other’s Confidential Information available to any third party, or use the other’s Confidential Information for any purpose other than the implementation of the Contract.
     3. Each party shall take all reasonable steps to ensure that the other’s Confidential Information to which it has access is not disclosed or distributed by its employees or agents in violation of these Terms.
     4. A party may disclose Confidential Information to the extent such Confidential Information is required to be disclosed by law, by any governmental or other regulatory authority or by a court or other authority of competent jurisdiction, provided that, to the extent it is legally permitted to do so, it gives the other party as much notice of such disclosure as possible and, where notice of disclosure is not prohibited and is given in accordance with this clause 13.4, it takes into account the reasonable requests of the other party in relation to the content of such disclosure.
     5. No party shall make, or permit any person to make, any public announcement concerning the Contract without the prior written consent of the other parties (such consent not to be unreasonably withheld or delayed), except as required by law, any governmental or regulatory authority (including, without limitation, any relevant securities exchange), any court or other authority of competent jurisdiction.
-    6. The above provisions of this clause 13 shall survive termination of the Contract, however arising.
+    6. The above provisions of this clause 14 shall survive termination of the Contract, however arising.
 15. #### Indemnity
     1. The Broker shall defend, indemnify and hold harmless ACOM against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) arising out of or in connection with the Broker’s use of the Platform in breach of these Terms.
     2. ACOM shall defend the Broker against any claim that the Broker’s use of the Platform in accordance with these Terms infringes any third party copyright, trademark, database right or right of confidentiality, and shall indemnify the Broker for any amounts awarded against the Broker in judgment or settlement of such claims, provided that:
@@ -231,10 +231,10 @@ _(relating to the AeroBid Platform)_
     2. Nothing in these Terms excludes the liability of ACOM:
        1. for death or personal injury caused by ACOM’s negligence; or
        2. for fraud or fraudulent misrepresentation.
-    3. Subject to clause 15.1 and clause 15.2 ACOM shall not be liable whether in tort (including for negligence or breach of statutory duty), contract, misrepresentation, restitution or otherwise for any loss of profits, loss of business, depletion of goodwill and/or similar losses or loss or corruption of data or information, or pure economic loss, or for any special, indirect or consequential loss, costs, damages, charges or expenses however arising under the Contract.
+    3. Subject to clause 16.1 and clause 16.2 ACOM shall not be liable whether in tort (including for negligence or breach of statutory duty), contract, misrepresentation, restitution or otherwise for any loss of profits, loss of business, depletion of goodwill and/or similar losses or loss or corruption of data or information, or pure economic loss, or for any special, indirect or consequential loss, costs, damages, charges or expenses however arising under the Contract.
     4. Nothing in these Terms excludes the liability of the Broker for any breach, infringement or misappropriation of ACOM’s intellectual property rights.
 17. #### Term and termination
-    1. The Contract shall, unless otherwise terminated as provided in this clause 16, commence on the Effective Date and shall continue until and unless:
+    1. The Contract shall, unless otherwise terminated as provided in this clause 17, commence on the Effective Date and shall continue until and unless:
        1. terminated by either party on 30 days written notice; or
        2. otherwise terminated in accordance with the provisions of these Terms, (the **Subscription Term**).
     2. Without affecting any other right or remedy available to it, either party may terminate the Contract with immediate effect by giving written notice to the other party if:
@@ -248,7 +248,7 @@ _(relating to the AeroBid Platform)_
        8. the holder of a qualifying floating charge over the assets of that other party (being a company or limited liability partnership) has become entitled to appoint or has appointed an administrative receiver;
        9. a person becomes entitled to appoint a receiver over the assets of the other party or a receiver is appointed over the assets of the other party;
        10. a creditor or encumbrancer of the other party attaches or takes possession of, or a distress, execution, sequestration or other such process is levied or enforced on or sued against, the whole or any part of the other party’s assets and such attachment or process is not discharged within 14 days;
-       11. any event occurs, or proceeding is taken, with respect to the other party in any jurisdiction to which it is subject that has an effect equivalent or similar to any of the events mentioned in clause 16.2(c) to clause 16.2(j) (inclusive);
+       11. any event occurs, or proceeding is taken, with respect to the other party in any jurisdiction to which it is subject that has an effect equivalent or similar to any of the events mentioned in clause 17.2(c) to clause 17.2(j) (inclusive);
        12. the other party suspends or ceases, or threatens to suspend or cease, carrying on all or a substantial part of its business; or
        13. the other party’s financial position deteriorates so far as to reasonably justify the opinion that its ability to give effect to these Terms is in jeopardy.
     3. On termination of the Contract for any reason:
@@ -264,7 +264,7 @@ _(relating to the AeroBid Platform)_
     Except as expressly provided in these Terms, the rights and remedies provided under these Terms are in addition to, and not exclusive of, any rights or remedies provided by law.
 22. #### Severance
     1. If any provision or part-provision of these Terms is or becomes invalid, illegal or unenforceable, it shall be deemed deleted, but that shall not affect the validity and enforceability of the rest of these Terms.
-    2. If any provision or part-provision of these Terms is deemed deleted under clause 21.1 the parties shall negotiate in good faith to agree a replacement provision that, to the greatest extent possible, achieves the intended commercial result of the original provision.
+    2. If any provision or part-provision of these Terms is deemed deleted under clause 22.1 the parties shall negotiate in good faith to agree a replacement provision that, to the greatest extent possible, achieves the intended commercial result of the original provision.
 23. #### Entire agreement
     1. The Contract constitutes the entire agreement between the parties and supersedes and extinguishes all previous agreements, promises, assurances, warranties, representations and understandings between them, whether written or oral, relating to its subject matter.
     2. Each party acknowledges that in entering into the Contract it does not rely on, and shall have no remedies in respect of, any statement, representation, assurance or warranty (whether made innocently or negligently) that is not set out in these Terms.
