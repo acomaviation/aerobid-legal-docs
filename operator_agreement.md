@@ -1,6 +1,6 @@
 ---
 title: Operator’s Terms and Conditions of Subscription
-updatedAt: 2022-03-10T18:13:49Z
+updatedAt: 2023-01-03T00:00:00.991Z
 ---
 
 <!--
@@ -21,7 +21,9 @@ _(relating to the AeroBid Platform)_
 ### Agreed Terms
 
 1. #### **Interpretation**
+
    1. The definitions and rules of interpretation in this clause apply in these Terms.
+
    - **ACOM**:
      - has the meaning given in clause 2.1.
    - **Applicable Data Protection Laws:**
@@ -31,11 +33,13 @@ _(relating to the AeroBid Platform)_
    - **Authorised Users:**
      - those employees, agents and independent contractors of the Operator who are authorised by the Operator to use the Platform.
    - **Bid:**
-     - the Operator’s bid to service a Charter Request submitted to the Platform by the Broker.
+     - as the case may be, either the Operator’s bid to service a Charter Request submitted to the Platform by a Broker or a Broker’s bid to use an Empty Leg for its (or its client’s) passengers submitted to the Platform by the Operator.
    - **Broker:**
-     - a broker in the aviation industry who has subscribed to the Platform for the purpose of submitting Charter Requests to obtain Bids.
+     - a broker in the aviation industry who has subscribed to the Platform for the purpose of submitting Charter Requests to obtain Bids and/or to find and Bid on Empty Legs.
    - **Business Day:**
      - a day other than a Saturday, Sunday or public holiday in England when banks in London are open for business.
+   - **Aircraft**:
+     - an aircraft owned or operated by the Operator and for which the Operator holds, and has provided to ACOM and uploaded to the Platform, an Aircraft Operation Certificate in accordance with clause 11.4.
    - **Charter Request:**
      - a request for an aircraft submitted by a Broker which include details of:
        - the start and termination points of the required journey;
@@ -43,6 +47,16 @@ _(relating to the AeroBid Platform)_
        - the number of passengers;
        - any specific requirements as to aircraft; and
        - any specific requirements of the passengers.
+   - **Empty Leg(s):**
+
+     - details of a journey to be made by the Operator’s Aircraft without passengers including:
+       - the start and termination points of the journey;
+       - the date (and, if known, time) of the flight; and
+       - the number of passengers the Aircraft can take; and
+       - the Aircraft available;
+
+     on which a Broker can place a Bid
+
    - **Confidential Information:**
      - information that is proprietary or confidential and is either clearly labelled as such or identified as Confidential Information in clause 13.
    - **Contract:**
@@ -60,11 +74,11 @@ _(relating to the AeroBid Platform)_
    - **Policies:**
      - has the meaning given in clause 5.2.
    - **Purpose:**
-     - submitting Bids in response to Charter Requests and being introduced to Brokers who may require the services of the Operator in relation to such Charter Requests.
+     - submitting Bids in response to Charter Requests and being introduced to Brokers who may require the services of the Operator in relation to such Charter Requests and/or submitting Empty Legs and being introduced to Brokers who may have use for an Empty Leg.
    - **Software:**
      - the underlying hardware and software required for the Platform to operate.
    - **Subscription Fees:**
-     - the subscription fees payable by the Operator to ACOM for the User Subscriptions as per the fee schedule published on the billing page of the Platform and updated in accordance with clause 11.5.
+     - the subscription fees payable by the Operator to ACOM for the User Subscriptions as per the fee schedule published on the billing page of the Platform and updated in accordance with clause 12.5
    - **Subscription Term:**
      - has the meaning given in clause 16.1.
    - **Terms:**
@@ -77,6 +91,7 @@ _(relating to the AeroBid Platform)_
      - any thing or device (including any software, code, file or programme) which may: prevent, impair or otherwise adversely affect the operation of any computer software, hardware or network, any telecommunications service, equipment or network or any other service or device which may; prevent, impair or otherwise adversely affect access to or the operation of any programme or data, including the reliability of any programme or data (whether by re-arranging, altering or erasing the programme or data in whole or part or otherwise); or adversely affect the user experience, including malicious software such as worms, trojan horses, viruses and other similar things or devices.
    - **Vulnerability:**
      - a weakness in the computational logic (for example, code) found in software and hardware components that when exploited, results in a negative impact to the confidentiality, integrity, or availability, and the term Vulnerabilities shall be construed accordingly.
+
    1. Clause headings shall not affect the interpretation of these Terms.
    2. A person includes an individual, corporate or unincorporated body (whether or not having separate legal personality) and that person’s legal and personal representatives, successors or permitted assigns.
    3. A reference to a company shall include any company, corporation or other body corporate, wherever and however incorporated or established.
@@ -86,6 +101,7 @@ _(relating to the AeroBid Platform)_
    7. A reference to a statute or statutory provision shall include all subordinate legislation made as at the Effective Date under that statute or statutory provision.
    8. A reference to writing or written includes e-mail.
    9. References to clauses are to the clauses of these Terms.
+
 2. #### About ACOM
    1. ACOM Aviation Ltd (company number 13120644) (**ACOM**) is a company registered in England and Wales whose registered office is at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB. ACOM’s VAT number is 396385541. ACOM operates the website [www.aero.bid](https://www.aero.bid).
    2. To contact ACOM, telephone our customer service team at 441865819991 or email us at support@aero.bid. Formal notice of any matter under the Contract should be given in accordance with clause 26.
@@ -99,11 +115,11 @@ _(relating to the AeroBid Platform)_
    2. ACOM’s order process allows the Operator to check and amend any errors before submitting an order. The Operator shall be responsible for:
       1. checking the order carefully before confirming it; and
       2. ensuring that the order and any specification submitted by the Operator is complete and accurate.
-   3. ACOM’s acceptance of the Operator’s subscription order takes place when it sends an email to the Operator to accept it, at which point and on which date (**Effective Date**) the Contract between ACOM and the Operator will come into existence. Following acceptance of the Operator’s subscription order the Operator shall pay the applicable Subscription Fees to be able to use the Platform to view and bid on Charter Requests.
+   3. ACOM’s acceptance of the Operator’s subscription order takes place when it sends an email to the Operator to accept it, at which point and on which date (**Effective Date**) the Contract between ACOM and the Operator will come into existence. Following acceptance of the Operator’s subscription order the Operator shall pay the applicable Subscription Fees to be able to use the Platform to view and bid on Charter Requests and submit Empty Legs and view related Bids.
    4. If ACOM is unable to supply the Operator a subscription to the Platform for any reason, it will inform the Operator of this by email and it will not process the order. If the Operator has already paid a Subscription Fee, this will be refunded in full.
 5. #### User subscriptions
    1. Subject to the Operator purchasing the User Subscriptions in accordance with clause 6.2 and clause 11.1, the restrictions set out in this clause 5 and the other terms and conditions of these Terms, ACOM hereby grants to the Operator a non-exclusive, non-transferable right, without the right to grant sublicences, to permit the Authorised Users to use the Platform during the Subscription Term solely for the Purpose.
-   2. The Operator shall comply with (and ensure its Authorised Users comply with) ACOM’s platform terms and conditions, acceptable use policy and privacy policy (each available at [www.aero.bid](https://www.aero.bid) (**Policies**) when accessing and using the Platform. If there is any conflict between the terms of the Policies and these Terms, these Terms shall prevail.
+   2. The Operator shall comply with (and ensure its Authorised Users comply with) ACOM’s platform terms and conditions, acceptable use policy and privacy policy (each available at [www.aero.bid](https://www.aero.bid) (**Policies**) when accessing and using the Platform and its features. If there is any conflict between the terms of the Policies and these Terms, these Terms shall prevail.
    3. In relation to the Authorised Users, the Operator undertakes that:
       1. the maximum number of Authorised Users that it authorises to access and use the Platform shall not exceed the number of User Subscriptions it has purchased from time to time;
       2. it will not allow or suffer any User Subscription to be used by more than one individual Authorised User unless it has been reassigned in its entirety to another individual Authorised User, in which case the prior Authorised User shall no longer have any right to access or use the Platform;
@@ -126,7 +142,7 @@ _(relating to the AeroBid Platform)_
    2. Any operator, including the Operator, having considered all elements of the Charter Request and its own capabilities and capacities may submit a Bid to fulfil the Charter Request.
    3. Any operator, including the Operator, can change their Bid as many times as they like to compete with other bidders on the same request until a Bid is selected by a Broker (or the Broker withdraws the Charter Request).
    4. Each Bid shall include details of (as a minimum):
-      1. the aircraft available; and
+      1. the Aircraft available; and
       2. the price and currency the Operator will charge for the Charter Request, which shall be inclusive of value added tax or any other applicable tax or duties.
    5. The Operator shall ensure that the Bid contains no personal data (as defined by Applicable Data Protection Laws) or confidential information, is not misleading and complies with the Policies.
    6. Once submitted, the price set out in the Bid will be automatically converted as per the users preferred currency setting using exchange rates provided by 1Forge LLC (https://1forge.com).
@@ -134,43 +150,54 @@ _(relating to the AeroBid Platform)_
    8. The Operator agrees and acknowledges that the information of a Bid, including the Operator’s identity and contact details, may be accessed by or disclosed to the Broker on the Platform who submitted the Charter Request and that Bid minus details of the Operator’s name and aircraft may be accessed by or disclosed to all operators who have submitted a Bid on that Charter Request.
    9. Upon the Operator submitting a Bid on the Platform, the Broker who submitted the Charter Request shall be notified.
    10. If any Bid is of interest to the Broker, it shall be able to make initial contact with the Operator via the Platform. The Broker is not obliged to accept the Operator’s Bid or any other Bid submitted.
-   11. The purpose of the Platform is to introduce operators, such as the Operator, to Brokers who may have requirements for chartered aircraft. No contract or commitment to perform services or make payment (or an obligation to pay) shall be made between the Operator and the Broker via the Platform and ACOM shall not be party to any contract entered into between the Operator and the Broker (or any third party) in relation to the Charter Request. The Operator shall be responsible for ensuring that any contract separately entered into with the Broker outside the Platform meets its terms specified in the Bid and ACOM accepts no liability for any subsequent contract negotiated or entered into between the Operator and a Broker.
+   11. The purpose of the Platform is to introduce operators, such as the Operator, to Brokers who may have requirements for chartered aircraft. No contract or commitment to perform services or make payment (or an obligation to pay) shall be made between the Operator and the Broker via the Platform and ACOM shall not be party to any contract entered into between the Operator and the Broker (or any third party) in relation to the Charter Request and/or Empty Legs (as the case may be). The Operator shall be responsible for ensuring that any contract separately entered into with the Broker outside the Platform meets its terms specified in the Bid and/or Empty Leg (as the case may be) and ACOM accepts no liability for any subsequent contract negotiated or entered into between the Operator and a Broker.
    12. Prior to accepting a Broker onto the Platform ACOM shall view the Broker’s Certificate of Incorporation or equivalent incorporation documents in other jurisdictions and/or certificate of good standing (if relevant) (**Identification Documents**). Each Broker’s Identification Documents shall be available for the Operator to view on the Platform when the Operator submits a Bid in response to the Broker’s Charter Request. ACOM shall use reasonable skill and care in obtaining, checking and uploading the Broker’s Identification Documents but the Operator acknowledges and agrees that ACOM accepts no liability in the case of fraud or deceit by the Broker in obtaining or providing its Identification Documents.
    13. The Operator acknowledges that the Platform may introduce it to and enable or assist it to access the website content of, correspond with, and provide the services to, the Broker (or its clients) (whether or not via third-party websites) and that it does so solely at its own risk. ACOM makes no representation, warranty or commitment and shall have no liability or obligation whatsoever in relation to the content or use of, or correspondence with, any Broker, their clients, or their website, or any transactions completed, and any contract entered into by the Operator, with any Broker (or their clients). Any contract entered into and any transaction completed with a Broker (or other third party) is between the Operator and the Broker (or relevant third party), and not ACOM. ACOM does not endorse or approve any Broker introduced to the Operator via the Platform and it is the Operator’s sole responsibility to carry out appropriate due diligence on the Broker, their client and their creditworthiness.
-8. #### Data protection
+8. #### Empty Leg Bidding Process
+   1. The Authorised Users may submit details of an Empty Leg on behalf of the Operator by using the appropriate online prompts on the Platform. In the event that the Operator submits an empty Leg onto the Platform, all Brokers subscribed to the Platform, will be able to view the details in real-time on the Platform’s live empty leg market page.
+   2. The Operator agrees and acknowledges that the information contained in the Empty Leg, including the Operator’s identity and contact details, may be accessed by or disclosed to all Brokers on the Platform. Any Bid submitted by a Broker for an Empty Leg shall be available to view by the Operator on the Platform.
+   3. Any Broker may view an Empty Leg and submit a Bid to use the Empty Leg.
+   4. If any Bid is of interest to the Operator, it shall be able to make initial contact with the Broker via the Platform. The Operator is not obliged to accept any Bid but shall act in good faith when submitting Empty Legs and not upload any spurious Empty Legs or Empty Legs containing false or misleading information.
+   5. The Operator may withdraw an Empty Leg at any time by using the appropriate online prompts on the Platform.
+   6. The Operator acknowledges that a Broker can change or withdraw their Bid at any time.
+   7. The Operator shall ensure that the Empty Leg contains no personal data (as defined by Applicable Data Protection Laws) or confidential information, is not misleading and complies with the Policies.
+   8. Once submitted, the price set out in a Bid will be automatically converted as per the users preferred currency setting using exchange rates provided by 1Forge LLC (https://1forge.com).
+   9. If any Bid is of interest to the Operator, it shall be able to make initial contact with the Broker via the Platform.
+   10. For the avoidance of doubt, clauses 7.11, 7.12 and 7.13 shall apply to the Empty Leg process.
+9. #### Data protection
    1. Both parties will comply with:
       1. all applicable requirements of the Policies in relation to the use and protection of data; and
       2. Applicable Data Protection Laws.
-9. #### ACOM’s obligations
-   1. ACOM shall, during the Subscription Term, provide the Platform to the Operator on and subject to these Terms.
-   2. ACOM shall use commercially reasonable endeavours to make the Platform available 24 hours a day, seven days a week, except for:
-      1. planned maintenance carried out at such times as notified to the users of the Platform from time to time; and
-      2. unscheduled maintenance performed outside Normal Business Hours.
-   3. The undertaking at clause 9.1 shall not apply to the extent of any non-conformance which is caused by use of the Platform contrary to ACOM’s instructions, or modification or alteration of the Platform by any party other than ACOM or ACOM’s duly authorised contractors or agents. If the Platform does not conform with the foregoing undertaking, ACOM will, at its expense, use all reasonable commercial endeavours to correct any such non-conformance promptly, or provide the Operator with an alternative means of accomplishing the desired performance. Such correction or substitution constitutes the Operator’s sole and exclusive remedy for any breach of the undertaking set out in clause 9.1 and ACOM accepts no liability for loss caused due to the Platform being unavailable in accordance with clause 9.2 or due to matters beyond ACOM’s reasonable control.
-   4. ACOM:
-      1. does not warrant that:
-         1. the Operator’s use of the Platform will be uninterrupted or error-free;
-         2. that the Platform and/or the information obtained by the Operator through the Platform will meet the Operator’s requirements;
-         3. the Software or the Platform will be free from Vulnerabilities or Viruses.
-      2. is not responsible for any delays, delivery failures, or any other loss or damage resulting from the transfer of data over communications networks and facilities, including the internet, and the Operator acknowledges that the Platform may be subject to limitations, delays and other problems inherent in the use of such communications facilities.
-   5. ACOM shall be under no obligation to introduce Brokers to the Operator and offers no guarantee that the Operator will be provided with any Charter Requests or that any Bid submitted will be selected by a Broker.
-   6. The Contract shall not prevent ACOM from entering into similar agreements with third parties, including other operators in the aviation industry and competitors of the Operator.
-   7. ACOM warrants that it has and will maintain all necessary licences, consents, and permissions necessary for the performance of its obligations under these Terms.
-10. #### Operator’s obligations
+10. #### ACOM’s obligations
+    1. ACOM shall, during the Subscription Term, provide the Platform to the Operator on and subject to these Terms.
+    2. ACOM shall use commercially reasonable endeavours to make the Platform available 24 hours a day, seven days a week, except for:
+       1. planned maintenance carried out at such times as notified to the users of the Platform from time to time; and
+       2. unscheduled maintenance performed outside Normal Business Hours.
+    3. The undertaking at clause 9.1 shall not apply to the extent of any non-conformance which is caused by use of the Platform contrary to ACOM’s instructions, or modification or alteration of the Platform by any party other than ACOM or ACOM’s duly authorised contractors or agents. If the Platform does not conform with the foregoing undertaking, ACOM will, at its expense, use all reasonable commercial endeavours to correct any such non-conformance promptly, or provide the Operator with an alternative means of accomplishing the desired performance. Such correction or substitution constitutes the Operator’s sole and exclusive remedy for any breach of the undertaking set out in clause 9.1 and ACOM accepts no liability for loss caused due to the Platform being unavailable in accordance with clause 9.2 or due to matters beyond ACOM’s reasonable control.
+    4. ACOM:
+       1. does not warrant that:
+          1. the Operator’s use of the Platform will be uninterrupted or error-free;
+          2. that the Platform and/or the information obtained by the Operator through the Platform will meet the Operator’s requirements;
+          3. the Software or the Platform will be free from Vulnerabilities or Viruses.
+       2. is not responsible for any delays, delivery failures, or any other loss or damage resulting from the transfer of data over communications networks and facilities, including the internet, and the Operator acknowledges that the Platform may be subject to limitations, delays and other problems inherent in the use of such communications facilities.
+    5. ACOM shall be under no obligation to introduce Brokers to the Operator and offers no guarantee that the Operator will be provided with any Charter Requests or that any Bid submitted will be selected by a Broker.
+    6. The Contract shall not prevent ACOM from entering into similar agreements with third parties, including other operators in the aviation industry and competitors of the Operator.
+    7. ACOM warrants that it has and will maintain all necessary licences, consents, and permissions necessary for the performance of its obligations under these Terms.
+11. #### Operator’s obligations
     1. The Operator shall:
        1. without affecting its other obligations under these Terms, comply with all applicable laws and regulations with respect to its activities under the Contract;
        2. maintain its Aircraft Operation Certificate and comply with all requirements relating to it;
-       3. at all times hold appropriate and valid insurance for each of its aircraft;
+       3. at all times hold appropriate and valid insurance for each of its Aircraft;
        4. ensure that the Authorised Users use the Platform in accordance with these Terms and shall be responsible for any Authorised User’s breach of these Terms; and
        5. be solely responsible for procuring, maintaining and securing its network connections and telecommunications links from its systems to the Platform, and all problems, conditions, delays and all other loss or damage arising from or relating to the Operator’s network connections or telecommunications links or caused by the internet.
-    2. The Operator warrants to ACOM that by registering on the Platform and/or submitting Bids and/or contacting Brokers regarding a Charter Request, it shall not be in breach of any court order or any express or implied terms of any agreement, contract or other obligation binding on the Operator.
+    2. The Operator warrants to ACOM that by registering on the Platform and/or submitting Bids and/or contacting Brokers regarding a Charter Request or Empty Leg, it shall not be in breach of any court order or any express or implied terms of any agreement, contract or other obligation binding on the Operator.
     3. Prior to registering on the Platform (and annually or as otherwise required by ACOM thereafter) the Operator shall provide ACOM with the following documentation which shall be added to the Operator’s profile on the Platform and will be available for other users of the Platform to view:
        1. its Aircraft Operation Certificate; and
        2. Companies House Certificate of Incorporation or equivalent incorporation documents in other jurisdictions.
     4. The Operator shall ensure at all time that its Aircraft Operation Certificate relates to the aircraft owned by the Operator and where aircraft are added to or removed from the Operator’s Aircraft Operation Certificate the Operator shall ensure that the updated Aircraft Operation Certificate is immediately:
        1. provided to ACOM; and
        2. uploaded by the Operator to their profile on the Platform.
-11. #### Charges and payment
+12. #### Charges and payment
     1. The Operator shall pay the applicable Subscription Fees to ACOM for the User Subscriptions in accordance with this clause 11.
     2. The Operator shall on the Effective Date (and as required thereafter) provide to ACOM (or its credit card payment provider) valid, up-to-date and complete credit card details or approved purchase order information acceptable to ACOM and any other relevant valid, up-to-date and complete contact and billing details and, if the Operator provides:
        1. its credit card details to ACOM or ACOM’s credit card payment provider, the Operator hereby authorises ACOM or the credit card payment provider to bill such credit card:
@@ -184,10 +211,10 @@ _(relating to the AeroBid Platform)_
        1. shall be payable in USD; are non-cancellable and non-refundable;
        2. are exclusive of value added tax (or other applicable taxes), which shall be added to ACOM’s invoice(s) at the appropriate rate.
     5. ACOM shall be entitled to increase the Subscription Fees and the fees payable in respect of the additional User Subscriptions purchased pursuant to clause 6 upon 30 days prior notice to the Operator and the billing page will be amended accordingly.
-12. #### Proprietary rights
+13. #### Proprietary rights
     1. The Operator acknowledges and agrees that ACOM and/or its licensors own all intellectual property rights in the Platform. Except as expressly stated herein, the Contract does not grant the Operator any rights to, under or in, any patents, copyright, database right, trade secrets, trade names, trade marks (whether registered or unregistered), or any other rights or licences in respect of the Platform.
     2. ACOM confirms that it has all the rights in relation to the Platform that are necessary to grant all the rights it purports to grant under, and in accordance with, these Terms.
-13. #### Confidentiality
+14. #### Confidentiality
     1. Each party may be given access to Confidential Information from the other party in order to perform its obligations under these Terms. A party’s Confidential Information shall not be deemed to include information that:
        1. is or becomes publicly known other than through any act or omission of the receiving party;
        2. was in the other party’s lawful possession before the disclosure;
@@ -198,7 +225,7 @@ _(relating to the AeroBid Platform)_
     4. A party may disclose Confidential Information to the extent such Confidential Information is required to be disclosed by law, by any governmental or other regulatory authority or by a court or other authority of competent jurisdiction, provided that, to the extent it is legally permitted to do so, it gives the other party as much notice of such disclosure as possible and, where notice of disclosure is not prohibited and is given in accordance with this clause 13.4, it takes into account the reasonable requests of the other party in relation to the content of such disclosure.
     5. No party shall make, or permit any person to make, any public announcement concerning the Contract without the prior written consent of the other parties (such consent not to be unreasonably withheld or delayed), except as required by law, any governmental or regulatory authority (including, without limitation, any relevant securities exchange), any court or other authority of competent jurisdiction.
     6. The above provisions of this clause 13 shall survive termination of the Contract, however arising.
-14. #### Indemnity
+15. #### Indemnity
     1. The Operator shall defend, indemnify and hold harmless ACOM against claims, actions, proceedings, losses, damages, expenses and costs (including without limitation court costs and reasonable legal fees) arising out of or in connection with the Operator’s use of the Platform in breach of these Terms.
     2. ACOM shall defend the Operator against any claim that the Operator’s use of the Platform in accordance with these Terms infringes any third party copyright, trademark, database right or right of confidentiality, and shall indemnify the Operator for any amounts awarded against the Operator in judgment or settlement of such claims, provided that:
        1. ACOM is given prompt notice of any such claim;
@@ -210,7 +237,7 @@ _(relating to the AeroBid Platform)_
        2. the Operator’s use of the Platform in breach of these Terms or any instructions given to Operator by ACOM; or
        3. the Operator’s use of the Platform after notice of the alleged or actual infringement from ACOM or any appropriate authority.
     5. The foregoing states the Operator’s sole and exclusive rights and remedies, and ACOM’s (including ACOM’s employees, agents and sub-contractors) entire obligations and liability, for infringement of any patent, copyright, trademark, database right or right of confidentiality.
-15. #### Limitation of liability
+16. #### Limitation of liability
     1. Except as expressly and specifically provided in these Terms:
        1. the Operator assumes sole responsibility for results obtained from the use of the Platform by the Operator, and for conclusions drawn from such use. ACOM shall have no liability for any damage caused by errors or omissions in any information or instructions submitted or provided by the Operator or any Broker in connection with the Platform;
        2. all warranties, representations, conditions and all other terms of any kind whatsoever implied by statute or common law are, to the fullest extent permitted by applicable law, excluded from the Contract; and
@@ -220,7 +247,7 @@ _(relating to the AeroBid Platform)_
        2. for fraud or fraudulent misrepresentation.
     3. Subject to clause 15.1 and clause 15.2 ACOM shall not be liable whether in tort (including for negligence or breach of statutory duty), contract, misrepresentation, restitution or otherwise for any loss of profits, loss of business, depletion of goodwill and/or similar losses or loss or corruption of data or information, or pure economic loss, or for any special, indirect or consequential loss, costs, damages, charges or expenses however arising under the Contract.
     4. Nothing in these Terms excludes the liability of the Operator for any breach, infringement or misappropriation of ACOM’s intellectual property rights.
-16. #### Term and termination
+17. #### Term and termination
     1. The Contract shall, unless otherwise terminated as provided in this clause 16, commence on the Effective Date and shall continue until and unless:
        1. terminated by either party on 30 days written notice; or
        2. otherwise terminated in accordance with the provisions of these Terms, (the **Subscription Term**).
@@ -241,33 +268,33 @@ _(relating to the AeroBid Platform)_
     3. On termination of the Contract for any reason:
        1. all licences granted under these Terms shall immediately terminate and the Operator shall immediately cease all use of the Platform; and
        2. any rights, remedies, obligations or liabilities of the parties that have accrued up to the date of termination, including the right to claim damages in respect of any breach of the Contract which existed at or before the date of termination shall not be affected or prejudiced.
-17. #### Force majeure
+18. #### Force majeure
     ACOM shall have no liability to the Operator under the Contract if it is prevented from or delayed in performing its obligations under the Contract, or from carrying on its business, by acts, events, omissions or accidents beyond its reasonable control, including, without limitation, strikes, lock-outs or other industrial disputes (whether involving the workforce of ACOM or any other party), failure of a utility service or transport or telecommunications network, act of God, war, riot, civil commotion, malicious damage, compliance with any law or governmental order, rule, regulation or direction, accident, breakdown of plant or machinery, fire, flood, storm or default of suppliers or sub-contractors, provided that the Operator is notified of such an event and its expected duration.
-18. #### Variation
+19. #### Variation
     No variation of these Terms shall be effective unless it is in writing and signed by the parties (or their authorised representatives).
-19. #### Waiver
+20. #### Waiver
     No failure or delay by a party to exercise any right or remedy provided under these Terms or by law shall constitute a waiver of that or any other right or remedy, nor shall it prevent or restrict the further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy shall prevent or restrict the further exercise of that or any other right or remedy.
-20. #### Rights and remedies
+21. #### Rights and remedies
     Except as expressly provided in these Terms, the rights and remedies provided under these Terms are in addition to, and not exclusive of, any rights or remedies provided by law.
-21. #### Severance
+22. #### Severance
     1. If any provision or part-provision of these Terms is or becomes invalid, illegal or unenforceable, it shall be deemed deleted, but that shall not affect the validity and enforceability of the rest of these Terms.
     2. If any provision or part-provision of these Terms is deemed deleted under clause 21.1 the parties shall negotiate in good faith to agree a replacement provision that, to the greatest extent possible, achieves the intended commercial result of the original provision.
-22. #### Entire agreement
+23. #### Entire agreement
     1. The Contract constitutes the entire agreement between the parties and supersedes and extinguishes all previous agreements, promises, assurances, warranties, representations and understandings between them, whether written or oral, relating to its subject matter.
     2. Each party acknowledges that in entering into the Contract it does not rely on, and shall have no remedies in respect of, any statement, representation, assurance or warranty (whether made innocently or negligently) that is not set out in these Terms.
     3. Each party agrees that it shall have no claim for innocent or negligent misrepresentation or negligent misstatement based on any statement in these Terms.
     4. Nothing in this clause shall limit or exclude any liability for fraud.
-23. #### Assignment
+24. #### Assignment
     1. The Operator shall not, without the prior written consent of ACOM, assign, transfer, charge, sub-contract or deal in any other manner with all or any of its rights or obligations under the Contract.
     2. ACOM may at any time assign, transfer, charge, sub-contract or deal in any other manner with all or any of its rights or obligations under the Contract.
-24. #### No partnership or agency
+25. #### No partnership or agency
     Nothing in these Terms is intended to or shall operate to create a partnership between the parties, or authorise either party to act as agent for the other, and neither party shall have the authority to act in the name or on behalf of or otherwise to bind the other in any way (including, but not limited to, the making of any representation or warranty, the assumption of any obligation or liability and the exercise of any right or power).
-25. #### Third party rights
+26. #### Third party rights
     These Terms do not confer any rights on any person or party (other than the parties to this Contract and, where applicable, their successors and permitted assigns) pursuant to the Contracts (Rights of Third Parties) Act 1999.
-26. #### Notices
+27. #### Notices
     1. Any notice required to be given under these Terms shall be in writing and shall be delivered by hand or sent by pre-paid first-class post or recorded delivery post to the other party at its address set out in these Terms (for ACOM) or the Operator’s order (for the Operator), or such other address as may have been notified by that party for such purposes, or sent by email to the other party’s email address as set out in these Terms (for ACOM) or the Operator’s order (for the Operator).
     2. A notice delivered by hand shall be deemed to have been received when delivered (or if delivery is not in normal business hours in the place of receipt, at 9 am on the first business day in the place of receipt following delivery). A correctly addressed notice sent by pre-paid first-class post or recorded delivery post shall be deemed to have been received at the time at which it would have been delivered in the normal course of post. A notice sent by email shall be deemed to have been received at the time of transmission (or if delivery is not in normal business hours in the place of receipt, at 9 am on the first business day in the place of receipt following delivery).
-27. #### Governing law
+28. #### Governing law
     The Contract and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.
-28. #### Jurisdiction
+29. #### Jurisdiction
     Each party irrevocably agrees that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with these Terms and the Contract or its subject matter or formation (including non-contractual disputes or claims).

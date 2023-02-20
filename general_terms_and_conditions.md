@@ -1,6 +1,6 @@
 ---
 title: General Terms and Conditions
-updatedAt: 2022-03-08T17:32:10.991Z
+updatedAt: 2023-01-03T00:00:00.991Z
 ---
 
 ### What's in these terms?
@@ -100,11 +100,11 @@ We have no control over the contents of those sites or resources.
 
 ### User-generated content is not approved by us
 
-Our Platform may include information and materials uploaded by other users of the Platform, including where brokers upload details of their client’s requirements and where operators upload bids. This information and these materials have not been verified or approved by us. The views expressed by other users on our Platform do not represent our views or values.
+Our Platform may include information and materials uploaded by other users of the Platform, including where brokers upload details of their client’s requirements and where operators upload bids or where you interact with other users of our Platform using our chat function. This information and these materials have not been verified or approved by us. The views expressed by other users on our Platform do not represent our views or values.
 
 ### How to complain about content uploaded by other users
 
-If you wish to complain about content uploaded by other users, please contact us on support@aero.bid.
+If you wish to complain about content uploaded by other users, please contact us on support@aero.bid. However, please note that we do not moderate or access content shared within our chat function.
 
 ### Our responsibility for loss or damage suffered by you
 
@@ -136,6 +136,8 @@ Any content you upload to our Platform will be considered non-confidential and n
 We also have the right to disclose your identity to any third party who is claiming that any content posted or uploaded by you to our Platform constitutes a violation of their intellectual property rights, or of their right to privacy.
 
 We have the right to remove any posting you make on our Platform if, in our opinion, your post does not comply with the content standards set out in our [Acceptable Use Policy](https://aero.bid/legal/acceptable-use).
+
+Please note that we do not moderate or access content shared using our Platform’s chat function. You must still comply with these terms of use in relation to any such content.
 
 You are solely responsible for securing and backing up your content.
 

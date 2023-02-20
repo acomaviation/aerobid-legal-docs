@@ -1,6 +1,6 @@
 ---
 title: Acceptable Use Policy
-updatedAt: 2022-03-08T17:32:10.991Z
+updatedAt: 2023-01-03T00:00:00.991Z
 ---
 
 ### What's in these terms?
@@ -40,7 +40,7 @@ You may not use our Platform:
 - For the purpose of harming or attempting to harm minors in any way.
 - To bully, insult, intimidate or humiliate any person.
 - To send, knowingly receive, upload, download, use or re-use any material which does not comply with our ‘Content standards’ set out below.
-- To transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam).
+- To transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam), including to any contact information published in our directories.
 - To knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware.
 - To upload terrorist content.
 
@@ -60,6 +60,7 @@ Our Platform offers interactive services, including, without limitation:
 - The ability for brokers (as defined in our broker subscription terms, available at [https://aero.bid/legal/brokers](https://aero.bid/legal/brokers)) to upload details of their customer's requirements.
 - The ability for operators (as defined in our operator subscription terms, available at [https://aero.bid/legal/operators](https://aero.bid/legal/operators)) to make bids, and for brokers to accept the most convenient of these bids.
 - Messaging functions enabling brokers and operators to contact one another via our Platform.
+- The ability for brokers and operators to set up email and telephone alerts to be made aware of broker requirements or operator flights that may be of interest.
 
 We are under no obligation to oversee, monitor or moderate any interactive service we provide on our Platform, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of our content standards, whether the service is moderated or not.
 

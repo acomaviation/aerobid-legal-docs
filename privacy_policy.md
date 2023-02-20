@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-updatedAt: 2022-03-08T17:32:10.991Z
+updatedAt: 2023-01-03T00:00:00.991Z
 ---
 
 ### Introduction
@@ -85,13 +85,15 @@ We may collect, use, store and transfer different kinds of personal data about y
 
 - **Identity Data** includes first name, last name, username or similar identifier.
 - **Contact Data** includes address, email address and telephone numbers.
-- **Transaction Data** includes details about payments to and from you and other details of services you have subscribed to.
+- **Transaction Data** includes details about payments to and from you and other details of services you have subscribed to, including details of alerts you have activated.
 - **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website and use our Platform.
 - **Profile Data** includes your username, your account preferences and settings.
+- **Chat Data** includes information relating to your usage of our chat function, including details of messages you share using this function within our Platform.
+- **Directory Data** includes information that we publish in our broker and operator directories (including contact information and copy certificates).
 - **Usage Data** includes information about how you use our Platform and subscription services.
 - **Marketing and Communications Data** includes your preferences in receiving marketing from us and your communication preferences.
 
-Where you use our Platform on behalf of a business (e.g. an operator or broker), we anticipate that most of the data we collect in connection with your use of the Platform will be business information rather than personal data. This privacy policy applies to the extent that you provide us with any personal data ancillary to your use of the Platform for and on behalf of the business that you represent. Where you use our Platform on behalf of a business, you must not upload or otherwise transmit personal data relating to passengers, crew members or any other individuals via our Platform. If you are, have been previously, or will in future be a passenger or crew member on any flight facilitated via our Platform, we do not process your personal data.
+Where you use our Platform on behalf of a business (e.g. an operator or broker), we anticipate that most of the data we collect in connection with your use of the Platform will be business information rather than personal data. This privacy policy applies to the extent that you provide us with any personal data ancillary to your use of the Platform for and on behalf of the business that you represent. Where you use our Platform on behalf of a business, you must not upload or otherwise transmit personal data relating to passengers, crew members or any other individuals via our Platform (including via our chat function). If you are, have been previously, or will in future be a passenger or crew member on any flight facilitated via our Platform, we do not process your personal data.
 
 We refer to the above categories of data in the [Purposes for which we will use your personal data](#purposes-for-which-we-will-use-your-personal-data) tables.
 
@@ -114,7 +116,7 @@ We use different methods to collect data from and about you including through:
 - enter a competition, promotion or survey;
 - upload content to our Platform;
 - give us some feedback or contact us.
-- **Automated technologies or interactions.** As you interact with our website and use our Platform, we may automatically collect **Technical Data** about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our cookie policy ([https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)) for further details.
+- **Automated technologies or interactions.** As you interact with our website and use our Platform, we may automatically collect **Technical Data** about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our cookie policy ([https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)) for further details. We will also store Chat Data within our Platform. However, this information is encrypted and not readily accessible to ACOM. We do not review or moderate this information, and sharing of personal data within our chat function is prohibited.
 - **Third parties or publicly available sources.** We may receive personal data about you from various third parties as set out below:
 - Technical Data from the following parties:
   - analytics providers such as Google Analytics based outside the UK;
@@ -146,21 +148,28 @@ Note that we may process your personal data for more than one lawful ground depe
    </td>
    <td>Lawful basis for processing including basis of legitimate interest
    </td>
-   <td>Third party processing and international transfers
+   <td>Third party information processing and international transfers
    </td>
   </tr>
   <tr>
-   <td>To register you as a new user of our Platform and to enable you to use our Platform, including by uploading details of your customer’s requirements (if you are a broker or represent a broker) and place bids (if you are an operator or represent an operator)
+   <td>
+To register you as a new user of our Platform and to enable you to use our Platform, including: 
+by uploading details of your customer’s requirements (if you are a broker or represent a broker) and place bids (if you are an operator);
+by uploading details of flights that may be of interest to brokers (if you are an operator);
+by using our chat function to contact operators (if you are a broker or represent a broker) or brokers (if you are an operator);
+to set up alerts relating to broker requirements or flights that are registered on our Platform; 
+to register your details (or details of the business you represent) on our online directory. If you are (or represent) a broker, this information is published for our operators. If you are (or represent) an operator, this information is published for our brokers. 
    </td>
    <td>  
 <ol>
   
 <li>Identity
-  
-<li>Contact 
-  
-<li>
-</li>  
+<li>Contact
+<li>Transaction
+<li>Transaction
+<li>Chat
+<li>Directory
+
 </ol>
    </td>
    <td>Performance of a contract with you or the business that you represent
@@ -178,26 +187,20 @@ Note that we may process your personal data for more than one lawful ground depe
    <td>  
 <ol>
   
-<li>Identity 
-  
-<li>Contact 
-  
-<li>Transaction 
-  
+<li>Identity
+<li>Contact
+<li>Transaction
+<li>Chat
+<li>Directory
 <li>Marketing and Communications
-</li>  
+
 </ol>
    </td>
-   <td>  
-<ol>
-  
-<li>Performance of a contract with you or the business that you represent 
-  
-<li>
-</li>  
-</ol>
+   <td>Performance of a contract with you or the business that you represent
    </td>
    <td><a href="https://aws.amazon.com/">AmazonWeb Services, Inc. (US)</a>
+<p>
+<a href="https://www.twilio.com/">Twilio, Inc. (US)</a>
 <p>
 <a href="https://stripe.com/">Stripe, Inc. (US)</a>
 <p>
@@ -218,13 +221,10 @@ Note that we may process your personal data for more than one lawful ground depe
 <ol>
   
 <li>Identity 
-  
 <li>Contact 
-  
 <li>Profile 
-  
 <li>Marketing and Communications
-</li>  
+
 </ol>
    </td>
    <td>  
@@ -250,11 +250,9 @@ Note that we may process your personal data for more than one lawful ground depe
 <ol>
   
 <li>Identity
-  
 <li>Contact
-  
 <li>Technical
-</li>  
+
 </ol>
    </td>
    <td>  
@@ -278,17 +276,12 @@ Note that we may process your personal data for more than one lawful ground depe
 <ol>
   
 <li>Identity 
-  
 <li>Contact 
-  
 <li>Profile 
-  
 <li>Usage 
-  
 <li>Marketing and Communications 
-  
-<li>Technical 
-</li>  
+<li>Technical
+
 </ol>
    </td>
    <td>Necessary for our legitimate interests (to study how customers use our services, to develop them, to grow our business and to inform our marketing strategy)
@@ -303,9 +296,9 @@ Note that we may process your personal data for more than one lawful ground depe
 <ol>
   
 <li>Technical 
-  
 <li>Usage 
-</li>  
+<li>Chat
+
 </ol>
    </td>
    <td>Necessary for our legitimate interests (to define types of customers for our services, to keep our Platform updated and relevant, to develop our business and to inform our marketing strategy)
@@ -313,6 +306,8 @@ Note that we may process your personal data for more than one lawful ground depe
    <td><a href="https://aws.amazon.com/">AmazonWeb Services, Inc. (US)</a>
 <p>
 <a href="https://sentry.io/">Functional Software, Inc. dba Sentry (US)</a>
+<p>
+<p><a href="https://www.twilio.com/">Twilio, Inc. (US)</a>
 <p>
 <a href="https://analytics.google.com/">Google LLC (US)</a>
    </td>
@@ -324,15 +319,11 @@ Note that we may process your personal data for more than one lawful ground depe
 <ol>
   
 <li>Identity 
-  
 <li>Contact 
-  
 <li>Technical 
-  
 <li>Usage 
-  
-<li>Profile 
-</li>  
+<li>Profile
+
 </ol>
    </td>
    <td>Necessary for our legitimate interests (to develop our services and grow our business)
