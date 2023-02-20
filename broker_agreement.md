@@ -1,6 +1,6 @@
 ---
 title: Broker’s Terms and Conditions of Subscription
-updatedAt: 2022-03-11T09:13:37Z
+updatedAt: 2023-01-03T00:00:00.991Z
 ---
 
 _(relating to the AeroBid Platform)_
