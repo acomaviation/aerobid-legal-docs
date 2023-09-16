@@ -3,6 +3,8 @@ title: Privacy Policy
 updatedAt: 2023-01-03T00:00:00.991Z
 ---
 
+**PLEASE READ THE TERMS OF THIS POLICY CAREFULLY BEFORE USING THE PLATFORM**
+
 ### Introduction
 
 Welcome to ACOM Aviation Ltd’s privacy policy. This privacy policy relates to our online platform Aero.Bid (**our Platform**).

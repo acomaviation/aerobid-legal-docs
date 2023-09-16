@@ -55,7 +55,7 @@ Analytics cookies help us understand how visitors interact with our Platform. We
 
 We and our service providers will use cookies and similar technologies on [https://aero.bid](https://aero.bid) to direct ACOM ads to you through targeted advertisements for our Platform on other sites you visit and to measure your engagement with those ads.
 
-## 5. Can I opt-out?
+## 5. Can I opt out?
 
 Yes. Your web browser may allow you to manage your cookie preferences, including to delete and disable ACOM cookies. You can take a look at the help section of your web browser or follow the links below to understand your options. If you choose to disable cookies, some features of our Platform may not operate as intended.
 

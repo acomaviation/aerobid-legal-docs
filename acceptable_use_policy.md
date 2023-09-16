@@ -1,9 +1,11 @@
 ---
 title: Acceptable Use Policy
-updatedAt: 2023-01-03T00:00:00.991Z
+updatedAt: 2023-10-01T00:00:00.991Z
 ---
 
-### What's in these terms?
+**PLEASE READ THE TERMS OF THIS POLICY CAREFULLY BEFORE USING THE PLATFORM**
+
+### What's in these terms
 
 This acceptable use policy sets out the content standards that apply when you upload content to our online platform Aero.Bid (**our Platform**), make contact with other users on our Platform, link to our Platform, or interact with our Platform in any other way.
 
@@ -53,17 +55,6 @@ You also agree:
 - any software used in the provision of our Platform; or
 - any equipment or network or software owned or used by any third party.
 
-### Interactive services
-
-Our Platform offers interactive services, including, without limitation:
-
-- The ability for brokers (as defined in our broker subscription terms, available at [https://aero.bid/legal/brokers](https://aero.bid/legal/brokers)) to upload details of their customer's requirements.
-- The ability for operators (as defined in our operator subscription terms, available at [https://aero.bid/legal/operators](https://aero.bid/legal/operators)) to make bids, and for brokers to accept the most convenient of these bids.
-- Messaging functions enabling brokers and operators to contact one another via our Platform.
-- The ability for brokers and operators to set up email and telephone alerts to be made aware of broker requirements or operator flights that may be of interest.
-
-We are under no obligation to oversee, monitor or moderate any interactive service we provide on our Platform, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of our content standards, whether the service is moderated or not.
-
 Our Platform is not intended for children and is not suitable for use by children.
 
 We do not store terrorist content.
@@ -91,37 +82,18 @@ A Contribution must not:
 - Include child sexual abuse material.
 - Promote violence.
 - Promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
-- Infringe any copyright, database right or trade mark of any other person.
+- Infringe any copyright, database right or trademark of any other person.
 - Be likely to deceive any person.
 - Breach any legal duty owed to a third party, such as a contractual duty or a duty of confidence.
 - Promote any illegal content or activity.
 - Be in contempt of court.
-- Be threatening, abuse or invade another's privacy, or cause annoyance, inconvenience or needless anxiety.
+- Be threatening, abuse or invade another person's privacy, or cause annoyance, inconvenience or needless anxiety.
 - Be likely to harass, upset, embarrass, alarm or annoy any other person.
 - Impersonate any person or misrepresent your identity or affiliation with any person.
 - Give the impression that the Contribution emanates from ACOM Aviation Ltd, if this is not the case.
 - Advocate, promote, incite any party to commit, or assist any unlawful or criminal act such as (by way of example only) copyright infringement or computer misuse.
 - Contain a statement which you know or believe, or have reasonable grounds for believing, that members of the public to whom the statement is, or is to be, published are likely to understand as a direct or indirect encouragement or other inducement to the commission, preparation or instigation of acts of terrorism.
 - Contain any advertising or promote any services or web links to other sites.
-
-For the avoidance of doubt, for any Contribution in the form of video content:
-
-- You must tell us immediately, if you upload a video containing any of the following: criminal material (relating to terrorism, sexual exploitation of children, child pornography, racism and xenophobia), unclassified or unclassifiable videos, videos rated R18 or suitable for R18 rating and other material that might impair the physical, mental or moral development of persons under the age of 18 (restricted material).
-- You must not upload a video containing harmful material.
-- You must not upload a video containing advertising for any of the following:
-- cigarettes and other tobacco products, electronic cigarettes or electronic cigarette refill containers, and prescription-only medicine; or
-- for alcoholic drinks that are not aimed specifically at under 18s and do not encourage immoderate consumption of alcohol.
-- Any advertising included in a video you upload must not:
-- prejudice respect for human dignity;
-- include or promote discrimination based on sex, racial or ethnic origin, nationality, religion or belief, disability, age or sexual orientation;
-- encourage behaviour prejudicial to health or safety;
-- encourage behaviour grossly prejudicial to the protection of the environment;
-- cause physical, mental or moral detriment to persons under the age of 18;
-- directly exhort such persons to purchase or rent goods or services in a manner which exploits their inexperience or credulity;
-- directly encourage such persons to persuade their parents or others to purchase or rent goods or services;
-- exploit the trust of such persons in parents, teachers or others; or
-- unreasonably show such persons in dangerous situations.
-- You must use the functionality provided on our Platform to declare whether, as far as you know or can reasonably be expected to know, any video contains advertising.
 
 ### Breach of this policy
 
@@ -142,6 +114,6 @@ We exclude our liability for all action we may take in response to breaches of t
 
 We can transfer our rights and obligations under these terms to any third party, provided this does not adversely affect your rights under these terms.
 
-### Which country's laws apply to any disputes?
+### Which country's laws apply to any disputes
 
-The terms of this policy, its subject matter and its formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales and we both hereby irrevocably waive any claim that we are not subject to the jurisdiction of those courts.
+The terms of this policy, its matter and its formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales and we both hereby irrevocably waive any claim that we are not subject to the jurisdiction of those courts.
