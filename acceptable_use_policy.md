@@ -27,7 +27,7 @@ We recommend that you print a copy of these terms for future reference.
 
 ### There are other terms that may apply to you
 
-Our Platform Terms and Conditions ([https://aero.bid/legal/terms](https://aero.bid/legal/terms)) also apply to your use of our Platform.
+Our [Platform Terms and Conditions](/legal/terms) also apply to your use of our Platform.
 
 ### We may make changes to the terms of this policy
 
@@ -48,7 +48,7 @@ You may not use our Platform:
 
 You also agree:
 
-- Not to reproduce, duplicate, copy or re-sell any part of our Platform in contravention of the provisions of our Platform Terms and Conditions ([https://aero.bid/legal/terms](https://aero.bid/legal/terms)).
+- Not to reproduce, duplicate, copy or re-sell any part of our Platform in contravention of the provisions of our [Platform Terms and Conditions](/legal/terms)).
 - Not to access without authority, interfere with, damage or disrupt:
 - any part of our Platform;
 - any equipment or network on which our Platform is operating;

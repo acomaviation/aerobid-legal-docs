@@ -13,16 +13,16 @@ ACOM Aviation Ltd respects your privacy and is committed to protecting your pers
 
 This privacy policy is provided in a layered format, so you can click through to the specific areas set out below. Please also use the Glossary to understand the meaning of some of the terms used in this privacy policy.
 
-1. [Important Information and Who We Are](https://www.aero.bid/legal/privacy#1-important-information-and-who-we-are)
-2. [The Data We Collect About You](https://www.aero.bid/legal/privacy#2-the-data-we-collect-about-you)
-3. [How Is Your Personal Data Collected](https://www.aero.bid/legal/privacy#3-how-is-your-personal-data-collected)
-4. [How We Use Your Personal Data](https://www.aero.bid/legal/privacy#4-how-we-use-your-personal-data)
-5. [Disclosures of Your Personal Data](https://www.aero.bid/legal/privacy#5-disclosures-of-your-personal-data)
-6. [International Transfers](https://www.aero.bid/legal/privacy#6-international-transfers)
-7. [Data Security](https://www.aero.bid/legal/privacy#7-data-security)
-8. [Data Retention](https://www.aero.bid/legal/privacy#8-data-retention)
-9. [Your Legal Rights](https://www.aero.bid/legal/privacy#9-your-legal-rights)
-10. [Glossary](https://www.aero.bid/legal/privacy#10-glossary)
+1. [Important Information and Who We Are](#1-important-information-and-who-we-are)
+2. [The Data We Collect About You](#2-the-data-we-collect-about-you)
+3. [How Is Your Personal Data Collected](#3-how-is-your-personal-data-collected)
+4. [How We Use Your Personal Data](#4-how-we-use-your-personal-data)
+5. [Disclosures of Your Personal Data](#5-disclosures-of-your-personal-data)
+6. [International Transfers](#6-international-transfers)
+7. [Data Security](#7-data-security)
+8. [Data Retention](#8-data-retention)
+9. [Your Legal Rights](#9-your-legal-rights)
+10. [Glossary](#10-glossary)
 
 ### 1. Important information and who we are
 
@@ -38,15 +38,13 @@ It is important that you read this privacy policy together with any other privac
 
 ACOM Aviation Ltd is the controller and responsible for your personal data (collectively referred to as **ACOM**, **we**, **us** or **our** in this privacy policy).
 
-We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your[ Your Legal Rights](https://www.aero.bid/legal/privacy#9-your-legal-rights) please contact the data privacy manager using the details set out below.
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your[ Your Legal Rights](#9-your-legal-rights) please contact the data privacy manager using the details set out below.
 
 #### Contact details
 
 Our full details are:
 
 Full name of legal entity: ACOM Aviation Ltd. We are registered in England and Wales under number 13120644 and we have our registered office at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB.
-
-Name or title of data privacy manager: Andrey Kadyrleev
 
 Email address: privacy@aero.bid
 
@@ -95,7 +93,7 @@ We may collect, use, store and transfer different kinds of personal data about y
 - **Usage Data** includes information about how you use our Platform and subscription services.
 - **Marketing and Communications Data** includes your preferences in receiving marketing from us and your communication preferences.
 
-We refer to the above categories of data in the[ Purposes for which we will use your personal data](https://www.aero.bid/legal/privacy#purposes-for-which-we-will-use-your-personal-data) tables.
+We refer to the above categories of data in the [Purposes for which we will use your personal data](#purposes-for-which-we-will-use-your-personal-data) tables.
 
 We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific Platform feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
 
@@ -116,7 +114,7 @@ We use different methods to collect data from and about you including through:
 - enter a competition, promotion or survey;
 - upload content to our Platform;
 - give us some feedback or contact us.
-- **Automated technologies or interactions.** As you interact with our website and use our Platform, we may automatically collect **Technical Data** about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our cookie policy ([https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)) for further details. We will also store Chat Data within our Platform. However, this information is encrypted and not readily accessible to ACOM. We do not review or moderate this information, and sharing of personal data within our chat function is prohibited.
+- **Automated technologies or interactions.** As you interact with our website and use our Platform, we may automatically collect **Technical Data** about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our [Cookie Policy](/legal/cookie) for further details. We will also store Chat Data within our Platform. However, this information is encrypted and not readily accessible to ACOM. We do not review or moderate this information, and sharing of personal data within our chat function is prohibited.
 - **Third parties or publicly available sources.** We may receive personal data about you from various third parties as set out below:
 - Technical Data from the following parties:
   - analytics providers such as Google Analytics based outside the UK;
@@ -138,7 +136,7 @@ Generally we do not rely on consent as a legal basis for processing your persona
 
 We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://www.aero.bid/legal/privacy#contact-details) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](#contact-details) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
 <table>
   <tr>
@@ -284,7 +282,7 @@ Note that we may process your personal data for more than one lawful ground depe
 
 #### Marketing
 
-We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can manage your marketing preferences or opt out of marketing at any time by following the opt-out links on any marketing message sent to you or by [contacting us](https://www.aero.bid/legal/privacy#contact-details) at any time.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. You can manage your marketing preferences or opt out of marketing at any time by following the opt-out links on any marketing message sent to you or by [contacting us](#contact-details) at any time.
 
 #### Promotional offers from us
 
@@ -298,17 +296,17 @@ We will get your express opt-in consent before we share your personal data with 
 
 #### Opting out
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by[ contacting us](https://www.aero.bid/legal/privacy#contact-details) at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [contacting us](#contact-details) at any time.
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a subscription to our service.
 
 #### Cookies
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website or our Platform may become inaccessible or not function properly. For more information about the cookies we use, please visit [https://aero.bid/legal/cookie](https://aero.bid/legal/cookie)
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website or our Platform may become inaccessible or not function properly. For more information about the cookies we use, please visit [Cookie Policy](/legal/cookie)
 
 #### Change of purpose
 
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](https://www.aero.bid/legal/privacy#contact-details).
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](#contact-details).
 
 If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
@@ -318,7 +316,7 @@ Please note that we may process your personal data without your knowledge or con
 
 We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
 
-- Third Parties as set out in the [Glossary](https://www.aero.bid/legal/privacy#glossary).
+- Third Parties as set out in the [Glossary](#10-glossary).
 - Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
@@ -332,7 +330,7 @@ Whenever we transfer your personal data out of the UK, we ensure a similar degre
 - We may transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data.
 - Where we use certain service providers, we may use specific contracts approved for use in the UK which give personal data the same protection it has in the UK.
 
-Please [contact us](https://www.aero.bid/legal/privacy#contact-details) if you want further information on the specific mechanism used by us when transferring your personal data out of the UK.
+Please [contact us](#contact-details) if you want further information on the specific mechanism used by us when transferring your personal data out of the UK.
 
 ### 7. Data security
 
@@ -348,7 +346,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
 
-Details of retention periods for different aspects of your personal data are available on request by [contacting us](https://www.aero.bid/legal/privacy#contact-details).
+Details of retention periods for different aspects of your personal data are available on request by [contacting us](#contact-details).
 
 In some circumstances you can ask us to delete your data: see 'Request erasure' below for further information.
 
@@ -358,15 +356,15 @@ In some circumstances we may anonymise your personal data (so that it can no lon
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
 
-- [Request access to your personal data](https://www.aero.bid/legal/privacy#request-access-to-your-personal-data).
-- [Request correction of your personal data](https://www.aero.bid/legal/privacy#request-correction-of-your-personal-data).
-- [Request erasure of your personal data](https://www.aero.bid/legal/privacy#request-erasure-of-your-personal-data).
-- [Object to processing of your personal data](https://www.aero.bid/legal/privacy#object-to-processing-of-your-personal-data).
-- [Request restriction of processing your personal data](https://www.aero.bid/legal/privacy#request-restriction-of-processing-of-your-personal-data).
-- [Request transfer of your personal data](https://www.aero.bid/legal/privacy#request-the-transfer-of-your-personal-data).
-- [Right to withdraw consent](https://www.aero.bid/legal/privacy#withdraw-consent-at-any-time).
+- [Request access to your personal data](#request-access-to-your-personal-data).
+- [Request correction of your personal data](#request-correction-of-your-personal-data).
+- [Request erasure of your personal data](#request-erasure-of-your-personal-data).
+- [Object to processing of your personal data](#object-to-processing-of-your-personal-data).
+- [Request restriction of processing your personal data](#request-restriction-of-processing-of-your-personal-data).
+- [Request transfer of your personal data](#request-the-transfer-of-your-personal-data).
+- [Right to withdraw consent](#withdraw-consent-at-any-time).
 
-If you wish to exercise any of the rights set out above, please [contact us](https://www.aero.bid/legal/privacy#contact-details).
+If you wish to exercise any of the rights set out above, please [contact us](#contact-details).
 
 #### No fee usually required
 
@@ -384,7 +382,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 #### Lawful basis
 
-**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by[ contacting us](https://www.aero.bid/legal/privacy#contact-details).
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](#contact-details).
 
 **Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
 

@@ -15,7 +15,7 @@ updatedAt: 2023-10-01T00:00:00.991Z
 
 1.4 The Terms as provided in Clause 1.2 shall be the legal reference of the Agreement.
 
-1.5 In circumstance where the Agreement has predefined terms and conditions that vary from the Terms herein mentioned then the terms and conditions of the Agreement shall prevail
+1.5 In circumstance where the Agreement has predefined terms and conditions that vary from the Terms herein mentioned then the terms and conditions of the Agreement shall prevail.
 
 1.6 ACOM Aviation LTD will make every possible endeavour to ensure that the Terms published on their website link (URL) (**[https://www.aero.bid/legal/terms](https://www.aero.bid/legal/terms)**) is kept up to date. However, the Terms shall be used as a general guide, and the legal reference to the Agreement shall always be the copy of the Terms hereinafter mentioned.
 
@@ -27,13 +27,13 @@ The terms, phrases and expressions shall have the following meanings:
   <tr>
    <td>2.1 Admin Fee</td>
    <td>
-    shall mean the non-refundable portion of the charter price equal to 3.5% of the total charter price. This fee is held in consideration for ACOM Aviation Ltd to cover the costs of transacting and providing staff services.
+    shall mean the non-refundable portion of the charter price equal to 3.5% of the total charter price. This fee is held in consideration for ACOM Aviation LTD to cover the costs of transacting and providing staff services.
    </td>
   </tr>
   <tr>
    <td> 2.2 Agreement</td>
    <td>
-shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting out the commercial terms, aircraft details, flight schedule, and any additional provisions together with the Terms;
+    shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting out the commercial terms, aircraft details, flight schedule, and any additional provisions together with the Terms;
    </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
   <tr>
    <td>2.4 Aircraft</td>
    <td>
-    shall mean the aircraft, or replacement aircraft, which is the subject of a flight booking as indicated in the Agreement;
+    shall mean the aircraft, or replacement aircraft, which is the subject of a flight booking as indicated in the Agreement.
    </td>
   </tr>
   <tr>
@@ -55,8 +55,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
    </td>
   </tr>
   <tr>
-   <td>2.6 Captain
-   </td>
+   <td>2.6 Captain</td>
    <td>
     shall mean the “Aircraft Commander”, also known as “Pilot-in-Command”. All three designators refer to the same authorized person and may be used interchangeably.
    </td>
@@ -70,7 +69,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
   <tr>
    <td>2.8 Charterer</td>
    <td>
-    shall mean the natural or legal person or entity entered in the Agreement and to which the air charter service is being provided, whether actually travelling on the aircraft or not.
+    shall mean the natural or legal person or entity entered into the Agreement and to which the air charter service is being provided, whether actually travelling on the aircraft or not.
    </td>
   </tr>
   <tr>
@@ -100,7 +99,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
   <tr>
    <td>2.13 Empty Leg</td>
    <td>
-    shall mean a positioning sector preceding or succeeding a live sector and that is available for sale by the Supplier or Operator at a reduced price based on the extent to which the desired route matches the actual positioning sector. Also known as “Empty Sector”, “Ferry Flight”, or “Dead Heading Flight”
+    shall mean a positioning sector preceding or succeeding a live sector and that is available for sale by the Supplier or Operator at a reduced price based on the extent to which the desired route matches the actual positioning sector. Also known as “Empty Sector”, “Ferry Flight”, or “Dead Heading Flight”.
    </td>
   </tr>
   <tr>
@@ -214,7 +213,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
   <tr>
    <td>2.32 Supplier</td>
    <td>
-    shall mean ACOM aviation LTD.
+    shall mean ACOM Aviation LTD.
    </td>
   </tr>
   <tr>
@@ -243,7 +242,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
 
 3.8 Unless otherwise indicated, the Charter Price and all other charges provided for in the Agreement are exclusive of applicable value added or sales tax which shall be paid in addition by the Charterer to the Supplier at the applicable rate based on the regulations of the country where the service has been/will be provided.
 
-3.9 The Charterer shall pay the Charter Price in full in the currency stated in the Agreement or as stated in the invoice in advance of the ETD by wire transfer, Debit or credit card, apple pay, google or approved cryptocurrencies without deductions to the bank account designated or via pay link to Supplier in the Agreement or the Invoice raised against the services. In this regard, it must be noted that in case of conflict between the payment details mentioned in the Agreement and those mentioned in the invoice, the details in the invoice shall prevail.
+3.9 The Charterer shall pay the Charter Price in full in the currency stated in the Agreement or as stated in the invoice in advance of the ETD by wire transfer, debit or credit card, Apple Pay, Google Pay or approved cryptocurrencies without deductions to the bank account designated or via pay link to Supplier in the Agreement or the Invoice raised against the services. In this regard, it must be noted that in case of conflict between the payment details mentioned in the Agreement and those mentioned in the invoice, the details in the invoice shall prevail.
 
 3.10 No set-off or counterclaim (whether arising in respect of the Agreement or any other carriage) shall entitle the Charterer to withhold payment of any sums whatsoever payable to the Supplier under or by reason of the Agreement. If the Charterer is required to withhold any part of any payment payable by it to the Supplier hereunder or to make any deduction therefrom, it shall pay such additional amount as may be necessary so that, after making such withholding or deduction, the Supplier shall receive from the Charterer the full amount of such payment.
 
@@ -253,7 +252,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
 
 4.1 The Supplier shall procure that the Operator provides the Aircraft staffed, maintained, equipped, fueled, and airworthy in accordance with the laws and regulations of the state of registration of the Aircraft and the Aircraft shall be operated in accordance with all applicable laws and regulations during the flight.
 
-4.2 The supplier does not own or operate any Aircraft on which the Flight Services are performed and does not carry any aviation insurance. The passengers understand and agree that it is the sole responsibility of the Air Carrier to maintain aviation liability insurance coverage.
+4.2 The Supplier does not own or operate any Aircraft on which the Flight Services are performed and does not carry any aviation insurance. The passengers understand and agree that it is the sole responsibility of the operator to maintain aviation liability insurance coverage.
 
 4.3 If at any time prior to, or after the commencement of the Flight, the Aircraft becomes unavailable or unserviceable for any reason whatsoever.
 
@@ -323,7 +322,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
 
 7.1 The Supplier shall be under no liability to the Charterer or to any passenger of the Charterer in respect of any variation to or cancellation of any flight or the non-availability of any seats which results from the acts or omissions of the Operator, or for any failure by the Operator to perform any flight and the Charterer hereby acknowledges to the Supplier that in any such event the Charterer shall expressly agree to only have recourse against the Operator. The Parties agree and acknowledge that the Supplier shall be under no liability to the Charterer for any failure by it or by the Operator to perform their respective obligations under the Agreement arising from force majeure, or any other cause beyond the control of the Supplier or the Operator including accidents to or failure of the Aircraft, its engines, or any other part thereof or any machinery or apparatus or communication system available to the passengers (such as phone or internet) used in connection therewith.Except in cases of gross negligence or willful misconduct by the Supplier.
 
-7.2 The Charterer shall indemnify the Supplier against any claim by any passenger of the Charterer arising out of any such variation, cancellation, non-availability or failure to perform provided always that if the Supplier shall receive any refund from the Operator in respect of any such varied, cancelled, or unperformed flights or unavailable seats which have already been paid for by the Charterer, the Supplier shall [subject to the provisions of (Clause 16) hereof and provided always that the Charterer shall have duly fulfilled its obligations under the Agreement], repay such refund to the Charterer. The supplier will indemnify the Charter against a third pary claim if these various are due to a breach of agreement terms by the supplier, misconduct or gross negligence by the supplier personnel or damage caused to the aircraft by the supplier personnel.
+7.2 The Charterer shall indemnify the Supplier against any claim by any passenger of the Charterer arising out of any such variation, cancellation, non-availability or failure to perform provided always that if the Supplier shall receive any refund from the Operator in respect of any such varied, cancelled, or unperformed flights or unavailable seats which have already been paid for by the Charterer, the Supplier shall [subject to the provisions of (Clause 16) hereof and provided always that the Charterer shall have duly fulfilled its obligations under the Agreement], repay such refund to the Charterer. The supplier will indemnify the Charter against a third party claim if these various are due to a breach of agreement terms by the supplier, misconduct or gross negligence by the supplier personnel or damage caused to the aircraft by the supplier personnel.
 
 7.3 To the fullest extent permitted by law, The Charterer shall Hold harmless and indemnify the Supplier against any loss, damage, liabilities, costs, or expenses of whatsoever nature caused to be suffered or incurred by the Supplier and its officers, employees, suppliers, or subcontractors arising out of any act or omission of the Charterer or its officers, employees or suppliers whether arising in contract or tort (including negligence) or otherwise.
 
@@ -351,7 +350,7 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
 
 8.3.1 The Charterer defaults on the payment of any amount payable hereunder on the due date set out in the Agreement and/or the invoice; or
 
-8.3.2 The Charterer is in breach of any of its other obligations hereunder which if capable of remedy has not been remedied within 7 days of receipt of written notice from the Supplier requiring remedy of such breach.
+8.3.2 The Charterer is in breach of any of its other obligations hereunder which, if capable of remedy, has not been remedied within 7 days of receipt of written notice from the Supplier requiring remedy of such breach.
 
 8.4 The Charterer shall indemnify the Operator and the Supplier against any claims by any passenger of the Charterer arising out of the termination of the Agreement.
 
@@ -379,9 +378,9 @@ shall mean the Air Charter Agreement (the <strong>Agreement</strong>), setting o
 
 9.4.4 100% of the Charter Price if cancelled within 24 hours of departure, or in case of No Show, or at any time after Commencement of Schedule.
 
-9.5 The date of the positioning flight is considered as the date of departure, i.e., Commencement of Schedule (this may not always be the day of the first departure on the Schedule as it is occasionally necessary to position the Aircraft on the previous day to the airport from which the flight(s) on the Schedule will commence. This early positioning is governed by operational requirements such as –but not limited to airport opening and closing times, crew duty times, etc.
+9.5 The date of the positioning flight is considered as the date of departure, i.e. Commencement of Schedule (this may not always be the day of the first departure on the Schedule as it is occasionally necessary to position the Aircraft on the previous day to the airport from which the flight(s) on the Schedule will commence). This early positioning is governed by operational requirements such as but not limited to airport opening and closing times, crew duty times, etc.
 
-9.6 The supplier has the right to cancel the agreement within 4 days of payment being received, if the flight request cannot be fulfilled for the following reasons: fluctuation in market price, inability of the aircraft or category to meet the consumer's flight requirements, or any other reason that makes the charter price commercially unviable. The Charterer will receive a 100% refund without penalty, within 14 days of completion of all KYC or AML documentation required to process the refund. Both Parties will be released from their obligations under these Charter Terms.
+9.6 The Supplier has the right to cancel the agreement within 4 days of payment being received, if the flight request cannot be fulfilled for the following reasons: fluctuation in market price, inability of the aircraft or category to meet the consumer's flight requirements, or any other reason that makes the charter price commercially unviable. The Charterer will receive a 100% refund without penalty, within 14 days of completion of all KYC or AML documentation required to process the refund. Both Parties will be released from their obligations under these Charter Terms.
 
 10. **EFFECT OF DEFAULT**
 
@@ -447,9 +446,9 @@ Price net of admin fee; or
 
 15.1 As the calculation of the Charter Price is based on a multitude of variables (aircraft type, itinerary, duration of stay, positioning flights, special services requested, etc.); the Supplier does not and cannot publish a fixed price list.
 
-15.2 The supplier shall provide a charter price upon receiving a flight request from the Charterer.If for any reason the charter price is subject to the supplier cancellation clause 9.6, the supplier will notify the Charterer.
+15.2 The supplier shall provide a charter price upon receiving a flight request from the Charterer.If for any reason the charter price is subject to the supplier cancellation Clause 9.6, the supplier will notify the Charterer.
 
-15.3 Further to (Clause 15.1) and (Clause 15.2), for the purpose of this Terms and associated Agreement, the Charter Price whether for a single sector, return flight, or a multi-sector flight, shall be a consolidated figure and shall not be subject to break-down by sector, number of sectors, or otherwise.
+15.3 Further to (Clause 15.1) and (Clause 15.2), for the purpose of these Terms and associated Agreement, the Charter Price whether for a single sector, return flight, or a multi-sector flight, shall be a consolidated figure and shall not be subject to break-down by sector, number of sectors, or otherwise.
 
 15.4 Upon the Charterer accepting one or more of the options on the quotation, the parties shall then proceed to sign the Agreement.
 
@@ -469,9 +468,9 @@ The Supplier may at any time without notice to the Charterer at its discretion s
 
 18. **PERSONAL DATA**
 
-18.1 The Supplier may collect and process personal data provided by the Charterer and passengers as necessary for booking services, issuing travel documents, and facilitating travel arrangements. This may include names, contact information, passport details, travel itineraries, and other relevant information..
+18.1 The Supplier may collect and process personal data provided by the Charterer and passengers as necessary for booking services, issuing travel documents, and facilitating travel arrangements. This may include names, contact information, passport details, travel itineraries, and other relevant information.
 
-18.2 The Supplier's privacy policy available at [https://www.aero.bid/legal/privacy](https://www.aero.bid/legal/privacy), governs the collection, use, disclosure, and other processing of personal data. The privacy policy complies with key UK GDPR principles including:
+18.2 The Supplier's [Privacy Policy](/legal/privacy) governs the collection, use, disclosure, and other processing of personal data. The privacy policy complies with key UK GDPR principles including:
 
 - Processing personal data only for specified, explicit and legitimate purposes.
 - Limiting collection and retention of personal data to what is directly relevant and necessary.
@@ -488,21 +487,21 @@ The Supplier may at any time without notice to the Charterer at its discretion s
 
 19. **CONFIDENTIALITY**
 
-The Terms mentioned herein are confidential to the Parties who acknowledge that it contains commercially sensitive information and proprietary information which both the Parties agree to keep strictly confidential as between themselves, as may be reasonably required in order to perform their obligations under this Terms. The Parties may use the Confidential Information in connection with this Terms and all related agreements shall be kept confidential, save and except:
+The Terms mentioned herein are confidential to the Parties who acknowledge that it contains commercially sensitive information and proprietary information which both the Parties agree to keep strictly confidential as between themselves, as may be reasonably required in order to perform their obligations under these Terms. The Parties may use the Confidential Information in connection with these Terms and all related agreements shall be kept confidential, save and except:
 
-19.1 to the extent that such information is required to be disclosed by appropriate regulatory authority, stock exchanges, by law or by any court of competent jurisdiction;
+1. to the extent that such information is required to be disclosed by appropriate regulatory authority, stock exchanges, by law or by any court of competent jurisdiction;
 
-19.2 from making any disclosure to employees, directors, or professional advisors for the purposes of obtaining advice on a need-to-know basis, provided that such Party shall procure that such Persons treat such information as confidential;
+2. from making any disclosure to employees, directors, or professional advisors for the purposes of obtaining advice on a need-to-know basis, provided that such Party shall procure that such Persons treat such information as confidential;
 
-19.3 to the extent that such information is in the public domain other than by breach of this Agreement;
+3. to the extent that such information is in the public domain other than by breach of this Agreement;
 
-19.4 to the extent that any such information is later acquired by a Party from a source not known by such Party to have obligations to any other Party hereto to keep such information confidential;
+4. to the extent that any such information is later acquired by a Party from a source not known by such Party to have obligations to any other Party hereto to keep such information confidential;
 
-19.5 to the extent that any such information that was previously known or already in the lawful possession of a Party, prior to disclosure by any other Party;
+5. to the extent that any such information that was previously known or already in the lawful possession of a Party, prior to disclosure by any other Party;
 
-19.6 in connection with the enforcement of any right or in defense of any claim, legal proceedings or a dispute resolution procedure relating to or arising out of this Agreement; and to the extent that any information, materially similar to the Confidential Information, has been independently developed by a Party without reference to any information furnished by any other Party hereto.
+6. in connection with the enforcement of any right or in defense of any claim, legal proceedings or a dispute resolution procedure relating to or arising out of this Agreement; and to the extent that any information, materially similar to the Confidential Information, has been independently developed by a Party without reference to any information furnished by any other Party hereto.
 
-19.7 The Party shall not disclose the Confidential Information to any third party including individual, company, firm, organization, or group; and/ or copy, deliver, discuss, duplicate, remove, say, state, suggest, transfer, transmit, print, or record Confidential Information without authorization. The restriction imposed by this clause shall include any attempts, indications, signs, and verbal discussions regarding the Confidential Information by the Parties.
+The Party shall not disclose the Confidential Information to any third party including individual, company, firm, organization, or group; and/ or copy, deliver, discuss, duplicate, remove, say, state, suggest, transfer, transmit, print, or record Confidential Information without authorization. The restriction imposed by this clause shall include any attempts, indications, signs, and verbal discussions regarding the Confidential Information by the Parties.
 
 20. **FORCE MAJEURE**
 
@@ -545,6 +544,6 @@ No Party shall be held liable or accountable to the other Party or be deemed to 
 
 22.12 The Charterer hereby provides explicit consent and authorisation (and will ensure Passengers do the same) for the Supplier to carry out due diligence screening activities, including background checks, on both the Charterer and Passengers. Additionally, the Charterer will promptly supply any information and documentation requested by the Supplier to facilitate due diligence, screening, and assessment processes, thereby ensuring adherence to Laws and Sanctions.
 
-22.13 The Supplier reserves the right, without prejudice to any other rights it may possess under law or otherwise, to cancel a booking made by the Charterer through the Supplier Platform if there is reason to believe that they are in breach of clause 22, via written notice to the Charterer, with immediate effect, without recourse to judicial proceedings. In such cases, no liability for compensation or damages of any nature, direct or indirect, will be owed to the Charterer or any Passenger due to breaches of this Clause by the Charterer or any Passenger.
+22.13 The Supplier reserves the right, without prejudice to any other rights it may possess under law or otherwise, to cancel a booking made by the Charterer through the Supplier Platform if there is reason to believe that they are in breach of Clause 22, via written notice to the Charterer, with immediate effect, without recourse to judicial proceedings. In such cases, no liability for compensation or damages of any nature, direct or indirect, will be owed to the Charterer or any Passenger due to breaches of this Clause by the Charterer or any Passenger.
 
-22.14 The Charterer undertakes full liability and agrees to indemnify, reimburse, and hold harmless each Indemnitee against any and all claims, demands, suits, judgments, losses, fines, penalties, damages, costs, liabilities, and causes of action, along with associated costs and expenses. This indemnity obligation persists in cases of breaches or deemed breaches of clause 22 by the Charterer of any representation, warranty, undertaking, or acknowledgement outlined in this Clause. It is emphasized that this indemnity remains in effect even if the Charterer cancels a confirmed booking before the scheduled Itinerary commencement.
+22.14 The Charterer undertakes full liability and agrees to indemnify, reimburse, and hold harmless each indemnitee against any and all claims, demands, suits, judgments, losses, fines, penalties, damages, costs, liabilities, and causes of action, along with associated costs and expenses. This indemnity obligation persists in cases of breaches or deemed breaches of Clause 22 by the Charterer of any representation, warranty, undertaking, or acknowledgement outlined in this Clause. It is emphasized that this indemnity remains in effect even if the Charterer cancels a confirmed booking before the scheduled Itinerary commencement.

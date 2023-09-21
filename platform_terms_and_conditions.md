@@ -25,9 +25,9 @@ We recommend that you print a copy of these terms for future reference.
 
 These terms of use refer to the following additional terms, which also apply to your use of our Platform:
 
-- Our [Privacy Policy](https://www.aero.bid/legal/privacy). See further under ‘How we may use your personal information’ below.
-- Our [Acceptable Use Policy](https://aero.bid/legal/acceptable-use), which sets out the permitted uses and prohibited uses of our Platform. When using our Platform, you must comply with this Acceptable Use Policy.
-- Our [Cookie Policy](https://www.aero.bid/legal/cookie), which sets out information about the cookies on our website.
+- Our [Privacy Policy](/legal/privacy). See further under ‘How we may use your personal information’ below.
+- Our [Acceptable Use Policy](/legal/acceptable-use), which sets out the permitted uses and prohibited uses of our Platform. When using our Platform, you must comply with this Acceptable Use Policy.
+- Our [Cookie Policy](/legal/cookie), which sets out information about the cookies on our website.
 
 If you register with our Platform as a member, our Air charter agreement and terms and conditions (as applicable) will also apply to you.
 
@@ -111,7 +111,7 @@ We have no control over the contents of those sites or resources.We hold no resp
 
 ### How we may use your personal information
 
-We will only use your personal information as set out in our [Privacy Policy](https://www.aero.bid/legal/privacy).
+We will only use your personal information as set out in our [Privacy Policy](/legal/privacy).
 
 ### Uploading content to our Platform
 
@@ -143,7 +143,7 @@ Our Platform must not be framed on any other website or platform, nor may you cr
 
 We reserve the right to withdraw linking permission without notice.
 
-The website in which you are linking must comply in all respects with the content standards set out in our [Acceptable Use Policy](https://aero.bid/legal/acceptable-use).
+The website in which you are linking must comply in all respects with the content standards set out in our [Acceptable Use Policy](/legal/acceptable-use).
 
 If you wish to link to or make any use of content on our Platform other than that set out above, please contact support@aero.bid.
 

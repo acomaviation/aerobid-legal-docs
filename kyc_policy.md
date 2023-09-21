@@ -70,6 +70,6 @@ You have the right:
 - To object to the processing of personal data.
 - To request the transfer of your personal data to another data controller, if technically possible.
 
-For more details on how we process personal data and your privacy rights, please refer to our [Privacy Policy](https://aero.bid/legal/privacy).
+For more details on how we process personal data and your privacy rights, please refer to our [Privacy Policy](/legal/privacy).
 
 If you have any questions regarding the Onboarding and Due Diligence Procedure, please contact us
