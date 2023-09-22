@@ -414,7 +414,7 @@ If the Agreement is terminated under (Clause 9) above, then the Charterer shall 
 
 12. **INDEMNITIES TO SURVIVE TERMINATION**
 
-All indemnities contained within this Terms shall survive the termination of the Agreement, howsoever occurring.
+All indemnities contained within these Terms shall survive the termination of the Agreement, howsoever occurring.
 
 13. **EMPTY LEG CHARTER SERVICES**
 
@@ -519,7 +519,7 @@ No Party shall be held liable or accountable to the other Party or be deemed to 
 
 21.5 The Supplier reserves the right to bring proceedings against the Charterer in any other court outside the UAE.
 
-22. **Prohibited Conduct and Sanctions**
+22. **PROHIBITED CONDUCT AND SANCTIONS**
 
 22.1 The charterer agrees to ensure full compliance with all relevant Laws, both for themselves and for each Passenger under their care.
 
@@ -547,3 +547,15 @@ No Party shall be held liable or accountable to the other Party or be deemed to 
 22.13 The Supplier reserves the right, without prejudice to any other rights it may possess under law or otherwise, to cancel a booking made by the Charterer through the Supplier Platform if there is reason to believe that they are in breach of Clause 22, via written notice to the Charterer, with immediate effect, without recourse to judicial proceedings. In such cases, no liability for compensation or damages of any nature, direct or indirect, will be owed to the Charterer or any Passenger due to breaches of this Clause by the Charterer or any Passenger.
 
 22.14 The Charterer undertakes full liability and agrees to indemnify, reimburse, and hold harmless each indemnitee against any and all claims, demands, suits, judgments, losses, fines, penalties, damages, costs, liabilities, and causes of action, along with associated costs and expenses. This indemnity obligation persists in cases of breaches or deemed breaches of Clause 22 by the Charterer of any representation, warranty, undertaking, or acknowledgement outlined in this Clause. It is emphasized that this indemnity remains in effect even if the Charterer cancels a confirmed booking before the scheduled Itinerary commencement.
+
+23. **POLITICALLY EXPOSED PERSONS (PEPs)**
+
+23.1 The Charterer represents and warrants that as of the date of signing this Agreement, neither they nor any of their beneficial owners or related parties are PEPs.
+
+23.2 The Charterer agrees to immediately notify the Supplier in writing if the Charterer, any of its beneficial owners, or related parties become or are discovered to be PEPs during the term of this Agreement.
+
+23.3 In the event that the Charterer or any of its beneficial owners or related parties are identified as PEPs, the Charterer consents to the Supplier conducting enhanced due diligence and risk assessment procedures on the Charterer’s funds and source of wealth as required under applicable anti-money laundering regulations.
+
+23.4 Based on the results of the enhanced due diligence, the Supplier reserves the right to either continue the contractual relationship with additional monitoring and controls, or immediately terminate this Agreement if the PEP status presents risks unacceptable to the Supplier's anti-money laundering policies.
+
+23.5 The Charterer agrees to cooperate with the Supplier's reasonable due diligence requests to allow the Supplier to meet its regulatory compliance obligations related to Politically Exposed Persons.
