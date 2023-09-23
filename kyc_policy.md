@@ -5,7 +5,7 @@ updatedAt: 2023-10-01T00:00:00.991Z
 
 **PLEASE READ THE TERMS OF THIS POLICY CAREFULLY BEFORE USING THE PLATFORM**
 
-### AML/KYC Legal basis - Processing personal data
+### AML & KYC Legal basis - Processing personal data
 
 At ACOM Aviation Ltd (**We**), we uphold a zero-tolerance approach to money laundering and terrorism financing, prioritizing the highest standards of openness, integrity, and accountability. We are dedicated to conducting business solely with reputable counterparties whose funds originate from legitimate sources and are not subject to any imposed sanctions.
 
