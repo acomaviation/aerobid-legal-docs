@@ -11,7 +11,8 @@ This acceptable use policy sets out the content standards that apply when you up
 
 ### Who we are and how to contact us
 
-We are registered in England and Wales under company number 13120644 and have our registered office at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB, which is also our main trading address. Our VAT number is 396385541.
+We are registered in England and Wales under company number 13120644, and have our registered office at Witan House, 4 Witan way, Witney,
+Oxon, England, OX28 6FF, which is also our main trading address. Our VAT number is 396385541.
 
 We are a limited company.
 

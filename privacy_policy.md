@@ -44,7 +44,8 @@ We have appointed a data privacy manager who is responsible for overseeing quest
 
 Our full details are:
 
-Full name of legal entity: ACOM Aviation Ltd. We are registered in England and Wales under number 13120644 and we have our registered office at Elmfield House, New Yatt Road, Witney, Oxon, England, OX28 1PB.
+Full name of legal entity: ACOM Aviation Ltd. We are registered in England and Wales under number 13120644, and we have our registered office at Witan House, 4 Witan way, Witney,
+Oxon, England, OX28 6FF.
 
 Email address: privacy@aero.bid
 

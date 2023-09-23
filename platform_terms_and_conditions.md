@@ -9,7 +9,7 @@ These terms tell you the rules for using our online platform AeroBid (**our Plat
 
 ### Who we are and how to contact us
 
-Aero.Bid is an online platform operated by ACOM Aviation Ltd ("**We**"). We are registered in England and Wales under company number 13120644 and have our registered office at 4 Witan way, Witney, Oxon, England, OX28 6FF, which is also our main trading address. Our VAT number is 396385541. We are a limited company.
+Aero.Bid is an online platform operated by ACOM Aviation Ltd ("**We**"). We are registered in England and Wales under company number 13120644, and have our registered office at 4 Witan way, Witney, Oxon, England, OX28 6FF, which is also our main trading address. Our VAT number is 396385541. We are a limited company.
 
 To contact us, please email to support@aero.bid.
 
