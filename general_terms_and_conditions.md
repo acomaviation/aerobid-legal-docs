@@ -5,9 +5,9 @@ updatedAt: 2023-10-01T00:00:00.991Z
 
 **GENERAL TERMS & CONDITIONS**
 
-1. **INTRODUCTION**
+### 1. INTRODUCTION
 
-1.1 This General Terms and Conditions (the **Terms**) is hereby set out for the supply of air charter services, related services, concierge services, or any ancillary services that may be required and are provided by the Supplier to the Charterer in accordance with the Air Charter Agreement (the **Agreement**).
+1.1 These General Terms and Conditions (the **Terms**) are hereby set out for the supply of air charter services, related services, concierge services, or any ancillary services that may be required and are provided by the Supplier to the Charterer in accordance with the Air Charter Agreement (the **Agreement**).
 
 1.2 The provisions of the Terms shall constitute an integral part of the Agreement, whether embedded in it, or attached thereto as a separate document or sent under separate cover as an addendum, or as otherwise referred to in any manner whatsoever in the Agreement.
 
@@ -17,9 +17,9 @@ updatedAt: 2023-10-01T00:00:00.991Z
 
 1.5 In circumstance where the Agreement has predefined terms and conditions that vary from the Terms herein mentioned then the terms and conditions of the Agreement shall prevail.
 
-1.6 ACOM Aviation LTD will make every possible endeavour to ensure that the Terms published on their website link (URL) (**[https://www.aero.bid/legal/terms](https://www.aero.bid/legal/terms)**) is kept up to date. However, the Terms shall be used as a general guide, and the legal reference to the Agreement shall always be the copy of the Terms hereinafter mentioned.
+1.6 ACOM Aviation LTD will make every possible endeavour to ensure that the Terms published on their website link (URL) (**[https://www.aero.bid/legal/terms](https://www.aero.bid/legal/terms)**) are kept up to date. However, the Terms shall be used as a general guide, and the legal reference to the Agreement shall always be the copy of the Terms hereinafter mentioned.
 
-2. **DEFINITIONS**
+### 2. DEFINITIONS
 
 The terms, phrases and expressions shall have the following meanings:
 
@@ -224,7 +224,7 @@ The terms, phrases and expressions shall have the following meanings:
   </tr>
 </table>
 
-3. **CHARTER PRICE, CHARGES, AND PAYMENT**
+### 3. CHARTER PRICE, CHARGES, AND PAYMENT
 
 3.1 The Charter Price includes the cost of services (namely fuel, oil, maintenance, landing, hangarage, parking, ground handling, remuneration and expense of aircrew, standard in-flight catering, license fees, clearance fees, baggage screening charges, airport security charges), in connection with and during the flight unless otherwise specified in the Agreement.
 
@@ -248,7 +248,7 @@ The terms, phrases and expressions shall have the following meanings:
 
 3.11 If payment is not received in cleared funds by the Supplier prior to departure, the Charterer shall be required to provide the Supplier with a credit card to guarantee the payment. If payment has not been received by the means agreed prior to the credit card hold being voided, the Supplier will be entitled to charge the full invoice amount to the credit card in addition to any service charges that may be applicable.
 
-4. **AIRCRAFT AND CREW**
+### 4. AIRCRAFT AND CREW
 
 4.1 The Supplier shall procure that the Operator provides the Aircraft staffed, maintained, equipped, fueled, and airworthy in accordance with the laws and regulations of the state of registration of the Aircraft and the Aircraft shall be operated in accordance with all applicable laws and regulations during the flight.
 
@@ -286,13 +286,13 @@ The terms, phrases and expressions shall have the following meanings:
 
 4.8 The Supplier may at its discretion and without prior notice substitute the Aircraft and such substitute aircraft shall, for the purposes of the Agreement, be the Aircraft as indicated in the Agreement.
 
-5. **TRAFFIC DOCUMENTS**
+### 5. TRAFFIC DOCUMENTS
 
 5.1 The Supplier shall procure that the Operator shall supply or procure the supply of passenger tickets, baggage checks, air waybills and all other necessary documents relating to the carriage undertaken pursuant to the Agreement and the Charterer shall give to the Supplier all necessary information and assistance to complete such documents as soon as possible after signing the Agreement and, in any event, in sufficient time prior to the Commencement of Flight to be completed for issue to passengers.
 
 5.2 Where the issuance of tickets is not required for passengers to board the Aircraft, the Flight Brief issued by the Supplier to the Charterer shall suffice.
 
-6. **FLIGHT TIMES, LOADING AND EMBARKATION**
+### 6. FLIGHT TIMES, LOADING AND EMBARKATION
 
 6.1 The Charterer shall be solely responsible for ensuring that passengers and their baggage arrive at the specified check-in point (FBO) at the departure airport in sufficient time to be carried on the flight. If any passenger of the Charterer fails to arrive in sufficient time to be carried on the flight, the Supplier shall be under no liability whatsoever to the Charterer nor to such passenger. The Supplier shall be under no obligation hereunder to make any alternative arrangements for any such passenger. If the Operator, in its absolute discretion, arranges for any such passenger to be carried on a later flight, the Charterer shall pay on demand to the Supplier such additional sum that the Supplier may specify for each such passenger to cover applicable passenger taxes and the administrative costs of the Operator, and the Supplier thereby incurred.
 
@@ -318,7 +318,7 @@ The terms, phrases and expressions shall have the following meanings:
 
 6.7 In the event that any agreement between the Operator and the Supplier in respect of the Aircraft is terminated for whatever reason; or the Aircraft is detained (whether lawfully or otherwise) by any third party (including but not limited to detention by any aviation regulatory authority, any governmental department, or any other legally authorized entity by way of lien or requisition for hire or otherwise); or the Operator has an administrator, receiver, administrative receiver, trustee or other like person appointed over a part or all of its assets or business (or any event analogous thereto occurs in any jurisdiction in which the Operator conducts its business) and as a result the Operator is unable to perform the Flight at the same cost to the Operator; or if the Operator becomes insolvent, enters into voluntary liquidation or is compulsorily wound up (or any event analogous thereto occurs in any jurisdiction in which the Operator conducts its business); or the Operator, for whatever reason, fails to hold or maintain an air operator’s certificate then the terms stipulated in (Clause 4.3) above shall apply.
 
-7. **EXCLUSION OF LIABILITY/INDEMNITY**
+### 7. EXCLUSION OF LIABILITY/INDEMNITY
 
 7.1 The Supplier shall be under no liability to the Charterer or to any passenger of the Charterer in respect of any variation to or cancellation of any flight or the non-availability of any seats which results from the acts or omissions of the Operator, or for any failure by the Operator to perform any flight and the Charterer hereby acknowledges to the Supplier that in any such event the Charterer shall expressly agree to only have recourse against the Operator. The Parties agree and acknowledge that the Supplier shall be under no liability to the Charterer for any failure by it or by the Operator to perform their respective obligations under the Agreement arising from force majeure, or any other cause beyond the control of the Supplier or the Operator including accidents to or failure of the Aircraft, its engines, or any other part thereof or any machinery or apparatus or communication system available to the passengers (such as phone or internet) used in connection therewith.Except in cases of gross negligence or willful misconduct by the Supplier.
 
@@ -336,7 +336,7 @@ The terms, phrases and expressions shall have the following meanings:
 
 7.8 In the event that, notwithstanding the terms of this Clause 7, the Supplier is found to have any liability towards the Charterer or any passenger of the Charterer, such liability shall (to the fullest extent permissible by law) not exceed an amount equivalent to the Charter Price.
 
-8. **TERM AND TERMINATION**
+### 8. TERM AND TERMINATION
 
 8.1 The Agreement comes into effect through electronic means (utilising electronic signatures, advanced electronic signatures, email, or any other electronic method) or by means of a physical (written) signature on the pertinent Charter Contract Terms. In the event that the Charter Contract is carried out electronically, both the Charterer and the supplier mutually and permanently agree to the communication, presentation, and retention (in whole or in part) of these Charter Contract Terms in an electronic format.
 
@@ -354,7 +354,7 @@ The terms, phrases and expressions shall have the following meanings:
 
 8.4 The Charterer shall indemnify the Operator and the Supplier against any claims by any passenger of the Charterer arising out of the termination of the Agreement.
 
-9. **CANCELLATION TERMS**
+### 9. CANCELLATION TERMS
 
 9.1 These cancellation terms are intended as a general guide for the Terms.
 
@@ -382,11 +382,11 @@ The terms, phrases and expressions shall have the following meanings:
 
 9.6 The Supplier has the right to cancel the agreement within 4 days of payment being received, if the flight request cannot be fulfilled for the following reasons: fluctuation in market price, inability of the aircraft or category to meet the consumer's flight requirements, or any other reason that makes the charter price commercially unviable. The Charterer will receive a 100% refund without penalty, within 14 days of completion of all KYC or AML documentation required to process the refund. Both Parties will be released from their obligations under these Charter Terms.
 
-10. **EFFECT OF DEFAULT**
+### 10. EFFECT OF DEFAULT
 
 If the Agreement is terminated under (Clause 9) above, then the Charterer shall (without prejudice to any other rights and remedies which the Supplier may have) pay forthwith to the Supplier all amounts then due and unpaid to the Supplier hereunder, together with interest thereon (if any) at the rate specified in the Agreement and the Charterer shall indemnify and keep the Supplier indemnified against all loss, damage, costs, expense, claim or liability incurred or sustained by the Supplier as a result of such termination and the Supplier shall be entitled to retain any initial deposit paid by the Charterer pursuant to any provisions set out in the Agreement.
 
-11. **GENERAL PROVISIONS**
+### 11. GENERAL PROVISIONS
 
 11.1 If at any time, any one or more of the provisions hereof is or becomes invalid, illegal, or unenforceable in any respect under the law of any jurisdiction, such provision shall as to such jurisdiction, be ineffective to the extent necessary without affecting or impairing the validity, legality, and enforceability of the remaining provisions hereof or of such provisions in any other jurisdiction. The invalid or unenforceable provision shall be deemed to be replaced with such valid, legal, or enforceable provision which comes as close as possible to the original intent of the parties and the invalid, illegal or unenforceable provision. Should a gap become evident in the Agreement or the provisions hereof, such gap shall, without affecting or impairing the validity, legality, and enforceability of the remaining provisions of the Agreement or the provisions hereof, be deemed to be filled in with such provision which comes as close as possible to the original intent of the parties.
 
@@ -412,11 +412,11 @@ If the Agreement is terminated under (Clause 9) above, then the Charterer shall 
 
 11.12 Any words herein or in the Agreement importing the masculine gender shall include the feminine gender and vice versa in both the singular and the plural.
 
-12. **INDEMNITIES TO SURVIVE TERMINATION**
+### 12. INDEMNITIES TO SURVIVE TERMINATION
 
 All indemnities contained within these Terms shall survive the termination of the Agreement, howsoever occurring.
 
-13. **EMPTY LEG CHARTER SERVICES**
+### 13. EMPTY LEG CHARTER SERVICES
 
 13.1 Should the charter service be based on an Empty Leg; the Supplier shall indicate that explicitly in the Agreement.
 
@@ -430,7 +430,7 @@ Price net of admin fee; or
 
 13.3.2 The Supplier shall offer the Charterer, upon the request of the latter, aircraft options based on full charter pricing.
 
-14. **SPECIAL LANDING PERMISSION REQUIREMENTS**
+### 14. SPECIAL LANDING PERMISSION REQUIREMENTS
 
 14.1 Most countries in Europe and North America have open sky policies and therefore do not require special permissions for landing. In such countries the issuance of a Flight Plan in good time will suffice. However, parking and departure and arrival slots apply where applicable.
 
@@ -442,7 +442,7 @@ Price net of admin fee; or
 
 14.5 In situations of epidemic, pandemic, civil strife, wars, etc. countries that usually do not require permissions to be processed through diplomatic channels, introduce such requirements for the duration of the abnormal situation. When such procedures are in force, the responsibility rests with the Charterer to obtain the initial approval from the designated authority, based on which the Supplier obtains the usual permission from the relevant civil aviation authority.
 
-15. **PRICING**
+### 15. PRICING
 
 15.1 As the calculation of the Charter Price is based on a multitude of variables (aircraft type, itinerary, duration of stay, positioning flights, special services requested, etc.); the Supplier does not and cannot publish a fixed price list.
 
@@ -454,7 +454,7 @@ Price net of admin fee; or
 
 15.5 The Agreement shall clearly indicate the Charter Price.
 
-16. **REFUND POLICY**
+### 16. REFUND POLICY
 
 16.1 The Cancellation Terms in (Clause 9) above as amended in the Agreement shall constitute the basis of the Refund Policy.
 
@@ -462,11 +462,11 @@ Price net of admin fee; or
 
 16.3 All refunds shall be made in currency denoted by agreement except for cryptocurrency, which will be refunded in euros. Funds will be funded to the account that payment was received from and require completion of our KYC processes, and we may require additional documentation to prove the source of funds before a refund can be issued. Funds will only be dispersed into an account in the account holder's name with matching details.
 
-17. **SET-OFF AND APPLICATION OF MONEYS**
+### 17. SET-OFF AND APPLICATION OF MONEYS
 
 The Supplier may at any time without notice to the Charterer at its discretion set-off any amounts paid by the Charterer to the Supplier hereunder against any amounts then due to the Supplier under the Agreement or against any amount due at such time from the Charterer to the Supplier.
 
-18. **PERSONAL DATA**
+### 18. PERSONAL DATA
 
 18.1 The Supplier may collect and process personal data provided by the Charterer and passengers as necessary for booking services, issuing travel documents, and facilitating travel arrangements. This may include names, contact information, passport details, travel itineraries, and other relevant information.
 
@@ -485,7 +485,7 @@ The Supplier may at any time without notice to the Charterer at its discretion s
 
   18.6 The Supplier shall not be liable to the Charterer or any third party with respect to claims in relation to personal data or any infringement related to the Privacy Policy.
 
-19. **CONFIDENTIALITY**
+### 19. CONFIDENTIALITY
 
 The Terms mentioned herein are confidential to the Parties who acknowledge that it contains commercially sensitive information and proprietary information which both the Parties agree to keep strictly confidential as between themselves, as may be reasonably required in order to perform their obligations under these Terms. The Parties may use the Confidential Information in connection with these Terms and all related agreements shall be kept confidential, save and except:
 
@@ -503,11 +503,11 @@ The Terms mentioned herein are confidential to the Parties who acknowledge that 
 
 The Party shall not disclose the Confidential Information to any third party including individual, company, firm, organization, or group; and/ or copy, deliver, discuss, duplicate, remove, say, state, suggest, transfer, transmit, print, or record Confidential Information without authorization. The restriction imposed by this clause shall include any attempts, indications, signs, and verbal discussions regarding the Confidential Information by the Parties.
 
-20. **FORCE MAJEURE**
+### 20. FORCE MAJEURE
 
 No Party shall be held liable or accountable to the other Party or be deemed to have defaulted under or breached the Agreement, that a failure to execute or delay is brought by events beyond the Parties control. In any case where either Party hereto is required to do any act, delays caused by or resulting from Acts of God, war, civil commotion, fire, flood or other casualty, labour difficulties, shortages of labor, materials or equipment, government regulations, unusually severe weather, or other events beyond such party's reasonable control shall not be taken into account when calculating the period of time required to complete the work, regardless of whether that period is indicated by a fixed date, a fixed time, or a reasonable period of time. Instead, that period of time shall be deemed to have been extended by the duration of the delay.
 
-21. **GOVERNING LAW AND JURISDICTION**
+### 21. GOVERNING LAW AND JURISDICTION
 
 21.1 In the event of any dispute or difference arising between the Parties relating to the Agreement or to the breach of the Agreement, the Parties shall use their best endeavours to settle such dispute or differences amicably.
 
@@ -519,7 +519,7 @@ No Party shall be held liable or accountable to the other Party or be deemed to 
 
 21.5 The Supplier reserves the right to bring proceedings against the Charterer in any other court outside the UAE.
 
-22. **PROHIBITED CONDUCT AND SANCTIONS**
+### 22. PROHIBITED CONDUCT AND SANCTIONS
 
 22.1 The charterer agrees to ensure full compliance with all relevant Laws, both for themselves and for each Passenger under their care.
 
@@ -548,7 +548,7 @@ No Party shall be held liable or accountable to the other Party or be deemed to 
 
 22.14 The Charterer undertakes full liability and agrees to indemnify, reimburse, and hold harmless each indemnitee against any and all claims, demands, suits, judgments, losses, fines, penalties, damages, costs, liabilities, and causes of action, along with associated costs and expenses. This indemnity obligation persists in cases of breaches or deemed breaches of Clause 22 by the Charterer of any representation, warranty, undertaking, or acknowledgement outlined in this Clause. It is emphasized that this indemnity remains in effect even if the Charterer cancels a confirmed booking before the scheduled Itinerary commencement.
 
-23. **POLITICALLY EXPOSED PERSONS (PEPs)**
+### 23. POLITICALLY EXPOSED PERSONS (PEPs)
 
 23.1 The Charterer represents and warrants that as of the date of signing this Agreement, neither they nor any of their beneficial owners or related parties are PEPs.
 

@@ -1,5 +1,5 @@
 ---
-title: AML/KYC Policy
+title: AML & KYC Policy
 updatedAt: 2023-10-01T00:00:00.991Z
 ---
 
