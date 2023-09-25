@@ -9,7 +9,7 @@ These terms tell you the rules for using our online platform AeroBid (**our Plat
 
 ### Who we are and how to contact us
 
-Aero.Bid is an online platform operated by ACOM Aviation Ltd ("**We**"). We are registered in England and Wales under company number 13120644, and have our registered office at 4 Witan way, Witney, Oxon, England, OX28 6FF, which is also our main trading address. Our VAT number is 396385541. We are a limited company.
+Aero.Bid is an online platform operated by ACOM Aviation Ltd ("**We**"). We are registered in England and Wales under company number 13120644, and have our registered office at Witan House, 4 Witan way, Witney, Oxon, England, OX28 6FF, which is also our main trading address. Our VAT number is 396385541. We are a limited company.
 
 To contact us, please email to support@aero.bid.
 
@@ -100,14 +100,14 @@ We have no control over the contents of those sites or resources.We hold no resp
 - Different limitations and exclusions of liability will apply to liability arising as a result of the supply of charter flights or services to you, which will be set out in our Air charter agreement and Terms and conditions(as applicable to you).
 - We exclude all implied conditions, warranties, representations or other terms that may apply to our Platform or any content on it.
 - We will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
-- use of, or inability to use, our Platform; or
-- use of or reliance on any content displayed on our Platform.
+  - use of, or inability to use, our Platform; or
+  - use of or reliance on any content displayed on our Platform.
 - In particular, we will not be liable for:
-- loss of profits, sales, business, or revenue;
-- business interruption;
-- loss of anticipated savings;
-- loss of business opportunity, goodwill or reputation; or
-- any indirect or consequential loss or damage.
+  - loss of profits, sales, business, or revenue;
+  - business interruption;
+  - loss of anticipated savings;
+  - loss of business opportunity, goodwill or reputation; or
+  - any indirect or consequential loss or damage.
 
 ### How we may use your personal information
 
