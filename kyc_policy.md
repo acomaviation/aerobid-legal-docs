@@ -14,7 +14,7 @@ The processing of Personal Data for Onboarding and Due Diligence Procedures is f
 1. Legal Obligation (Article 6(1)(c) of the GDPR): We process Personal Data to monitor and implement international and/or national sanctions, ensuring compliance with our legal obligations. This includes monitoring and reporting any suspicious activities that may arise during the onboarding and due diligence process.
 2. Legitimate Interest (Article 6(1)(f) of the GDPR): Personal Data is processed to fulfill requirements for preventing money laundering, financing terrorism, corruption, bribery, and fraud. This allows us to establish ourselves as a legitimate, reliable, and reputable business to both our counterparties and relevant authorities. We conduct necessary due diligence to safeguard our operations and protect against potential risks associated with financial crimes.
 
-For Individual Counterparties:
+#### For Individual Counterparties:
 
 - Name, surname, date of birth, nationality, occupation.
 - Valid ID/passport number.
@@ -27,7 +27,7 @@ For Individual Counterparties:
 
 We take a risk-based approach to AML, and at our discretion, an individual may be required to fill out an enhanced customer due diligence form to gather additional information.
 
-For Legal Entity Counterparties:
+#### For Legal Entity Counterparties:
 
 - Authorized person (name, surname, title, signature).
 - Ultimate beneficial owner (name, surname, address, occupation, date of birth, nationality, PEP status).
@@ -36,7 +36,7 @@ For Legal Entity Counterparties:
 - Member of the board of directors (name, surname, PEP status).
 - Authorised representative (name, surname, address, country of residence, date of birth, email, phone, role/position).
 
-Personal Data Collected from Copies of Documents:
+#### Personal Data Collected from Copies of Documents:
 
 - Identity Card or Passport.
 - Official documents from authorities verify identity and place of residence.
@@ -45,11 +45,11 @@ Personal Data Collected from Copies of Documents:
 - Certificate of Incorporation or its equivalent.
 - Certificate of Directors or copy of CEO (or other principal management body) appointment document.
 
-HOW LONG WILL WE RETAIN YOUR PERSONAL DATA?
+### HOW LONG WILL WE RETAIN YOUR PERSONAL DATA?
 
 We will retain your personal data collected during the Onboarding and Due Diligence procedure for up to 5 years, or as required by applicable laws or regulations, or for defence in a judicial process, to avoid storing outdated or unnecessary data.
 
-TO WHOM DO WE DISCLOSE YOUR PERSONAL DATA?
+### TO WHOM DO WE DISCLOSE YOUR PERSONAL DATA?
 
 We may share your personal data with:
 
@@ -58,7 +58,7 @@ We may share your personal data with:
 - Law enforcement authorities.
 - Banks or other financial service providers.
 
-WHAT DATA SUBJECT’S RIGHTS DO WE GUARANTEE TO YOU?
+### WHAT DATA SUBJECT’S RIGHTS DO WE GUARANTEE TO YOU?
 
 You have the right:
 

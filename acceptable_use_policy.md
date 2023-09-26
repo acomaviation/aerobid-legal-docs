@@ -49,7 +49,7 @@ You may not use our Platform:
 
 You also agree:
 
-- Not to reproduce, duplicate, copy or re-sell any part of our Platform in contravention of the provisions of our [Platform Terms and Conditions](/legal/terms)).
+- Not to reproduce, duplicate, copy or re-sell any part of our Platform in contravention of the provisions of our [Platform Terms and Conditions](/legal/terms).
 - Not to access without authority, interfere with, damage or disrupt:
 - any part of our Platform;
 - any equipment or network on which our Platform is operating;
